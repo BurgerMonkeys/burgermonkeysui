@@ -1,13 +1,13 @@
 ﻿using System.ComponentModel;
 using Android.Content;
 using Android.Graphics;
-using BurgerMonkeys.UI;
-using BurgerMonkeys.UI.Droid.Renderers;
+using BurgerMonkeys.UI.Controls;
+using BurgerMonkeys.UI.Droid;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 
 [assembly: ExportRenderer(typeof(BMImage), typeof(BMImageRenderer))]
-namespace BurgerMonkeys.UI.Droid.Renderers
+namespace BurgerMonkeys.UI.Droid
 {
     public class BMImageRenderer : ImageRenderer
     {

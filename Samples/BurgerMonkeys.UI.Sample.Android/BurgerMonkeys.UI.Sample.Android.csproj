@@ -52,7 +52,7 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.3.0.991211" />
+    <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640" />
     <PackageReference Include="Xamarin.Android.Support.Core.Utils" Version="28.0.0.3" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
@@ -93,16 +93,12 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BurgerMonkeys.UI.Sample\BurgerMonkeys.UI.Sample.csproj">
-      <Project>{EF07F379-A788-4D04-A25C-F28246A78205}</Project>
+      <Project>{254D6860-D70E-4B0C-B80D-AE61C5E7D01B}</Project>
       <Name>BurgerMonkeys.UI.Sample</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\BurgerMonkeys.UI\BurgerMonkeys.UI.csproj">
       <Project>{2D10A448-ABE1-4927-8E5C-A3A6FAE5C1EB}</Project>
       <Name>BurgerMonkeys.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\BurgerMonkeys.UI.Droid\BurgerMonkeys.UI.Droid.csproj">
-      <Project>{5888C98E-5228-49AF-A570-6AF327097865}</Project>
-      <Name>BurgerMonkeys.UI.Droid</Name>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

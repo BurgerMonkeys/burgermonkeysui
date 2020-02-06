@@ -9,7 +9,6 @@ namespace BurgerMonkeys.UI.Sample.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            UI.iOS.Burger.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

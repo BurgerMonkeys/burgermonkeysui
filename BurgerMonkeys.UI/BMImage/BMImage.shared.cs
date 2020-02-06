@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace BurgerMonkeys.UI
+namespace BurgerMonkeys.UI.Controls
 {
     public class BMImage : Image
     {

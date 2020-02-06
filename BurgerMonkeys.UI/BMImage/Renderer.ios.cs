@@ -1,10 +1,10 @@
-﻿using BurgerMonkeys.UI;
-using BurgerMonkeys.UI.iOS.Renderers;
+﻿using BurgerMonkeys.UI.Controls;
+using BurgerMonkeys.UI.iOS;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
 [assembly: ExportRenderer(typeof(BMImage), typeof(BMImageRenderer))]
-namespace BurgerMonkeys.UI.iOS.Renderers
+namespace BurgerMonkeys.UI.iOS
 {
     public class BMImageRenderer : ImageRenderer
     {

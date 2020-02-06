@@ -26,2583 +26,2582 @@ namespace BurgerMonkeys.UI.Sample.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_fade_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_fade_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_fade_out = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_fade_out;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_popup_enter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_popup_enter;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_popup_exit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_popup_exit;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_slide_in_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_slide_in_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_in_top;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_slide_out_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_slide_out_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_out_top;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_tooltip_enter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_tooltip_enter;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.abc_tooltip_exit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_tooltip_exit;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.design_snackbar_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_snackbar_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.design_snackbar_out = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_snackbar_out;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.EnterFromLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.EnterFromLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.EnterFromRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.EnterFromRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.ExitToLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.ExitToLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Animation.ExitToRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.ExitToRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.design_appbar_state_list_animator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.design_appbar_state_list_animator;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.design_fab_hide_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.design_fab_hide_motion_spec;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.design_fab_show_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.design_fab_show_motion_spec;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_btn_state_list_anim;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_chip_state_list_anim;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
-			global::BurgerMonkeys.UI.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarDivider;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarItemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarPopupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarSplitStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarTabBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarTabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTabStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarTabTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionBarWidgetTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionDropDownStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionDropDownStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionMenuTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionMenuTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionMenuTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeCloseDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeCopyDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeCutDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeFindDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModePasteDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModePopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeShareDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeSplitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionOverflowButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionOverflowMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionProviderClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionProviderClass;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.actionViewClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionViewClass;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.activityChooserViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.alertDialogCenterButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.alertDialogStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.alertDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.allowStacking = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.allowStacking;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.alphabeticModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alphabeticModifiers;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.arrowHeadLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.arrowHeadLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.arrowShaftLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.arrowShaftLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.autoSizeMaxTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeMaxTextSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.autoSizeMinTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeMinTextSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.autoSizePresetSizes = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizePresetSizes;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.autoSizeStepGranularity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeStepGranularity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.autoSizeTextType = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeTextType;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.background;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.backgroundSplit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundSplit;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.backgroundStacked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundStacked;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.barLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.barLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.behavior_autoHide = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_autoHide;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.behavior_fitToContents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_fitToContents;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.behavior_hideable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_hideable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.behavior_overlapTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_overlapTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.behavior_peekHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_peekHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.behavior_skipCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.borderlessButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.borderWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.borderWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.bottomAppBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomAppBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.bottomNavigationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomNavigationStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.bottomSheetDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.bottomSheetStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomSheetStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxBackgroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxBackgroundMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxBackgroundMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCollapsedPaddingTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusTopStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxStrokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.boxStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxStrokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonBarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonIconDimen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonIconDimen;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonPanelSideLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonStyleSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.buttonTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardBackgroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardElevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardMaxElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardMaxElevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardPreventCornerOverlap = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardUseCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cardViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.checkboxStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkboxStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.checkedChip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedChip;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.checkedIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.checkedIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedIconEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.checkedIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedIconVisible;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.checkedTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipBackgroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipGroupStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconVisible;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipMinHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipMinHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipSpacingHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipSpacingHorizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipSpacingVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipSpacingVertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipStandaloneStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStandaloneStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStrokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStrokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.chipStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconVisible;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.closeItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.collapseContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapseContentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.collapsedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.collapseIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapseIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.color;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorAccent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorAccent;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorBackgroundFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorButtonNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorButtonNormal;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorControlActivated = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorControlActivated;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorControlHighlight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorControlHighlight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorControlNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorControlNormal;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorError = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorError;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorPrimary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorPrimary;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorPrimaryDark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorPrimaryDark;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorSecondary;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.colorSwitchThumbNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.commitIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.commitIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentInsetEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentInsetEndWithActions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentInsetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentInsetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentInsetStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.contentScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentScrim;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.controlBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.controlBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.coordinatorLayoutStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.coordinatorLayoutStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.cornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.counterEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.counterMaxLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterMaxLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.counterOverflowTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.counterTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.customNavigationLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.customNavigationLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.defaultQueryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.defaultQueryHint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dialogCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dialogCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dialogPreferredPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.displayOptions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.displayOptions;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.divider;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dividerHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dividerHorizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dividerPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dividerPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dividerVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dividerVertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.drawableSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.drawableSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.drawerArrowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.drawerArrowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.dropDownListViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.editTextBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.editTextBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.editTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.editTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.editTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.editTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.enforceMaterialTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.enforceMaterialTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.enforceTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.enforceTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.errorEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.errorEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.errorTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.errorTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expanded = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expanded;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMargin;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.expandedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fabAlignmentMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabAlignmentMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fabCradleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCradleMargin;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fabCradleVerticalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCradleVerticalOffset;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fabCustomSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCustomSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fabSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fastScrollEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.firstBaselineToTopHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.firstBaselineToTopHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.floatingActionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.floatingActionButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.font;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontFamily;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontProviderAuthority = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderAuthority;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontProviderCerts = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderCerts;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontProviderFetchStrategy = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderFetchStrategy;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontProviderFetchTimeout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderFetchTimeout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontProviderPackage = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderPackage;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontProviderQuery = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderQuery;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontVariationSettings = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontVariationSettings;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.fontWeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontWeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.foregroundInsidePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.gapBetweenBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.gapBetweenBars;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.goIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.goIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.headerLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.headerLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.height;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.helperText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.helperText;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.helperTextEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.helperTextEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.helperTextTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.helperTextTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hideMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hideMotionSpec;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hideOnContentScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hideOnContentScroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hideOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hideOnScroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hintAnimationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hintEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hintEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hintTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hintTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.homeAsUpIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.homeLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.homeLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconifiedByDefault = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconifiedByDefault;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.iconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.imageButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.imageButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.indeterminateProgressStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.initialActivityCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.initialActivityCount;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.insetForeground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.insetForeground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.isLightTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.isLightTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemHorizontalPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemHorizontalPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemIconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemIconPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemIconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemTextAppearanceActive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextAppearanceActive;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemTextAppearanceInactive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextAppearanceInactive;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.itemTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.keylines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.keylines;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.labelVisibilityMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.labelVisibilityMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.lastBaselineToBottomHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layoutManager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layoutManager;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_anchor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_anchorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_anchorGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_collapseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_collapseMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_insetEdge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_insetEdge;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_keyline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_keyline;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_scrollFlags = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_scrollFlags;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.layout_scrollInterpolator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.liftOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.liftOnScroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.lineHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.lineHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.lineSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.lineSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listDividerAlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listMenuViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listMenuViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listPopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.logo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.logo;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.logoDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.logoDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.materialButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.materialButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.materialCardViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.materialCardViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.maxActionInlineWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.maxButtonHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.maxButtonHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.maxImageSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.maxImageSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.measureWithLargestChild = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.measureWithLargestChild;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.multiChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.navigationContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationContentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.navigationIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.navigationMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.navigationViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.numericModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.numericModifiers;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.overlapAnchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.overlapAnchor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.paddingBottomNoButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.paddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.paddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.paddingTopNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.panelBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.panelBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.panelMenuListTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.panelMenuListTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.panelMenuListWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.panelMenuListWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.passwordToggleContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.passwordToggleDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.passwordToggleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.passwordToggleTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.passwordToggleTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.popupMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.popupMenuStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.popupTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.popupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.popupWindowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.preserveIconSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.preserveIconSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.pressedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.pressedTranslationZ;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.progressBarPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.progressBarPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.progressBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.progressBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.queryBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.queryBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.queryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.queryHint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.radioButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.radioButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.ratingBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ratingBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.ratingBarStyleIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.ratingBarStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.reverseLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.reverseLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.rippleColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.scrimAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.scrimBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.scrimBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.searchHintIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.searchHintIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.searchIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.searchIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.searchViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.searchViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.seekBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.seekBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.selectableItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.selectableItemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.showAsAction = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showAsAction;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.showDividers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showDividers;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.showMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showMotionSpec;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.showText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showText;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.showTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.singleChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.singleLine = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.singleLine;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.singleSelection = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.singleSelection;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.snackbarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.snackbarButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.snackbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.snackbarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.spanCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spanCount;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.spinBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spinBars;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.spinnerStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spinnerStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.splitTrack = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.splitTrack;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.srcCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.srcCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.stackFromEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.stackFromEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.state_above_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_above_anchor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.state_collapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_collapsed;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.state_collapsible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_collapsible;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.state_liftable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_liftable;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.state_lifted = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_lifted;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.statusBarBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.statusBarBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.statusBarScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.statusBarScrim;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.strokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.strokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.strokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.strokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.subMenuArrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subMenuArrow;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.submitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.submitBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.subtitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.subtitleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitleTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.subtitleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitleTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.suggestionRowLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.suggestionRowLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.switchMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchMinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.switchPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.switchStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.switchTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabContentStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabContentStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIconTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIndicatorColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIndicatorFullWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorFullWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIndicatorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabIndicatorHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabInlineLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabInlineLabel;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabMaxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabMaxWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabMinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabPaddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabPaddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabRippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabRippleColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabSelectedTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tabUnboundedRipple = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabUnboundedRipple;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAllCaps;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceBody1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceBody1;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceBody2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceBody2;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceCaption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceCaption;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceHeadline1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline1;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceHeadline2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline2;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceHeadline3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline3;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceHeadline4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline4;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceHeadline5 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline5;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceHeadline6 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline6;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceListItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceListItemSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceOverline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceOverline;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSubtitle1;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSubtitle2;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textColorAlertDialogListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textColorSearchUrl = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textColorSearchUrl;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textInputStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textInputStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.textStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.theme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.theme;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.thickness = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thickness;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.thumbTextPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thumbTextPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.thumbTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thumbTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.thumbTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thumbTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tickMark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tickMark;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tickMarkTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tickMarkTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tickMarkTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tickMarkTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.title;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMargin;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleMargins = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMargins;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.titleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.toolbarId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.toolbarId;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.toolbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.toolbarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tooltipForegroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tooltipForegroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tooltipFrameBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tooltipFrameBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.tooltipText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tooltipText;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.track = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.track;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.trackTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.trackTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.trackTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.trackTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.ttcIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ttcIndex;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.useCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.useCompatPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.viewInflaterClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.viewInflaterClass;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.voiceIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.voiceIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowActionBarOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowActionModeOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowFixedHeightMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowFixedHeightMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowFixedWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowFixedWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowMinWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowMinWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::BurgerMonkeys.UI.Droid.Resource.Attribute.windowNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowNoTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::BurgerMonkeys.UI.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::BurgerMonkeys.UI.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_btn_colored_text_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_color_highlight_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_color_highlight_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_hint_foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_hint_foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_input_method_navigation_guard = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_primary_text_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_primary_text_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_search_url_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_search_url_text_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text_normal;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_search_url_text_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_search_url_text_selected = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text_selected;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_secondary_text_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_secondary_text_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_tint_btn_checkable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_tint_default = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_default;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_tint_edittext = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_edittext;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_tint_seek_thumb = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_tint_spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.abc_tint_switch_track = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_switch_track;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.accent_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.accent_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.accent_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.accent_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.background_floating_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_floating_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.background_floating_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_floating_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.background_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.background_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.bright_foreground_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.bright_foreground_inverse_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.bright_foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.bright_foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.browser_actions_bg_grey = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_bg_grey;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.browser_actions_divider_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_divider_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.browser_actions_text_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_text_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.browser_actions_title_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_title_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.button_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.button_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.button_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.button_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.cardview_dark_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_dark_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.cardview_light_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_light_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.cardview_shadow_end_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_shadow_end_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.cardview_shadow_start_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_shadow_start_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_bottom_navigation_shadow_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_default_color_primary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_default_color_primary;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_default_color_primary_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_default_color_primary_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_error = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_error;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_shadow_end_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_shadow_mid_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_shadow_start_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_snackbar_background_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_snackbar_background_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.design_tint_password_toggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_tint_password_toggle;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.dim_foreground_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.dim_foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.dim_foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.error_color_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.error_color_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.error_color_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.error_color_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.foreground_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.foreground_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.highlighted_text_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.highlighted_text_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.highlighted_text_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.highlighted_text_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_blue_grey_800 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_blue_grey_800;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_blue_grey_900 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_blue_grey_900;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_blue_grey_950 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_blue_grey_950;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_deep_teal_200 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_deep_teal_200;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_deep_teal_500 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_deep_teal_500;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_100 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_100;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_300 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_300;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_50 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_50;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_600 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_600;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_800 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_800;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_850 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_850;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.material_grey_900 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_900;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_bg_color_disabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_bg_color_selector;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_ripple_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_text_color_disabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_text_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_text_color_selector;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_chip_background_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_background_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_close_icon_tint;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_chip_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_ripple_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_chip_text_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_text_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_fab_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_fab_ripple_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_scrim_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_scrim_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_tabs_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_ripple_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_textinput_disabled_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_disabled_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.notification_action_color_filter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.notification_action_color_filter;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.notification_icon_bg_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.notification_icon_bg_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.notification_material_background_media_default_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.notification_material_background_media_default_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_dark_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_dark_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_dark_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_dark_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_text_default_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_default_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_text_default_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_default_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_text_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.primary_text_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.ripple_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.ripple_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.ripple_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.ripple_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.secondary_text_default_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.secondary_text_default_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_default_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.secondary_text_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.secondary_text_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.switch_thumb_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.switch_thumb_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.switch_thumb_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.switch_thumb_normal_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.switch_thumb_normal_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.tooltip_background_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.tooltip_background_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Color.tooltip_background_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.tooltip_background_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_button_min_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_button_min_width_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_control_corner_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_control_corner_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_control_inset_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_control_inset_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_control_padding_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_control_padding_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_min_width_major = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_padding_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_floating_window_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_floating_window_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_panel_menu_list_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_progress_bar_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_search_view_preferred_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_search_view_preferred_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_switch_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_switch_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_body_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_body_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_button_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_caption_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_display_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_display_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_display_3_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_display_4_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_headline_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_large_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_medium_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_menu_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_small_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_subhead_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.cardview_default_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.cardview_default_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.cardview_default_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.cardview_default_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_inset_vertical_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_padding_vertical_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_control_corner_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_control_corner_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_appbar_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_appbar_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_border_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_border_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_image_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_image_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_size_mini = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_size_mini;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_size_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_size_normal;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_item_icon_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_padding_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_snackbar_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_tab_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_max_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_tab_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_tab_text_size_2line = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_textinput_caption_translate_y;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.disabled_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.disabled_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.fastscroll_default_thickness = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.fastscroll_default_thickness;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.fastscroll_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.fastscroll_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.fastscroll_minimum_range = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.fastscroll_minimum_range;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.highlight_alpha_material_colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.highlight_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.highlight_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.hint_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.hint_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_corner_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_disabled_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_focused_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_focused_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_hovered_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_icon_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_inset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_inset;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_left;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_padding_right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_right;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_padding_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_top;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_pressed_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_stroke_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_btn_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_card_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_card_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_card_spacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_card_spacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_chip_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_chip_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_fab_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_fab_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_navigation_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_navigation_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_snackbar_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_snackbar_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_padding_end = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_toolbar_default_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_action_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_action_icon_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_action_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_action_text_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_big_circle_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_content_margin_start = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_content_margin_start;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_large_icon_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_large_icon_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_large_icon_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_large_icon_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_main_column_padding_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_media_narrow_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_right_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_right_icon_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_right_side_padding_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_small_icon_background_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_subtext_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_subtext_size;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_top_pad = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_top_pad;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.notification_top_pad_large_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.subtitle_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_corner_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.subtitle_outline_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_outline_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.subtitle_shadow_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_shadow_offset;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.subtitle_shadow_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_shadow_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_corner_radius;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_horizontal_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_horizontal_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_margin;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_vertical_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_vertical_padding;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::BurgerMonkeys.UI.Droid.Resource.Dimension.tooltip_y_offset_touch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_y_offset_touch;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_borderless_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_check_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_check_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_colored_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_radio_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_cab_background_top_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_control_background_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_control_background_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_dialog_material_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_edit_text_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_edit_text_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_ab_back_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_clear_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_search_api_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_black_48dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_item_background_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_item_background_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_divider_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_divider_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_focused_holo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_longpressed_holo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_list_selector_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ratingbar_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_ratingbar_small_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_seekbar_track_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_switch_thumb_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_tab_indicator_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_textfield_search_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_cursor_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.abc_vector_test = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_vector_test;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.avd_hide_password = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.avd_hide_password;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.avd_show_password = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.avd_show_password;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_bottom_navigation_item_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.design_fab_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_fab_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.design_ic_visibility = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_ic_visibility;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.design_ic_visibility_off = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_ic_visibility_off;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.design_password_eye = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_password_eye;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.design_snackbar_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_snackbar_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.mtrl_snackbar_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.mtrl_snackbar_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.navigation_empty_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.navigation_empty_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_action_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_action_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_bg_low = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_low;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_bg_low_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_bg_low_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_bg_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_normal;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_bg_normal_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_icon_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_icon_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_template_icon_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_template_icon_low_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notification_tile_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_tile_bg;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.tooltip_frame_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.tooltip_frame_dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Drawable.tooltip_frame_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.tooltip_frame_light;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action0 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action0;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.actions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.actions;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar_activity_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_activity_content;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_container;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar_root = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_root;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar_spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar_subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_bar_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_title;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_container;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_context_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_context_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_divider;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_image = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_image;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_menu_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_menu_divider;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_menu_presenter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_menu_presenter;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_mode_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_mode_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_mode_bar_stub = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_mode_bar_stub;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_mode_close_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_mode_close_button;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.action_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.activity_chooser_view_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.activity_chooser_view_content;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.add = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.add;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.alertTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.alertTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.all = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.all;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.ALT = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.ALT;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.always = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.always;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.async = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.async;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.auto = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.auto;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.beginning = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.beginning;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.blocking = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.blocking;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.bottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.bottomtab_navarea = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.bottomtab_navarea;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.bottomtab_tabbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.bottomtab_tabbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.browser_actions_header_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_header_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.browser_actions_menu_items = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_items;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.browser_actions_menu_item_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_item_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.browser_actions_menu_item_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_item_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.browser_actions_menu_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_view;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.buttonPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.buttonPanel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.cancel_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.cancel_action;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.center = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.center;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.center_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.center_horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.center_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.center_vertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.checkbox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.checkbox;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.chronometer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.chronometer;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.clip_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.clip_horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.clip_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.clip_vertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.collapseActionView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.collapseActionView;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.container;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.content;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.contentPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.contentPanel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.coordinator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.coordinator;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.CTRL = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.CTRL;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.custom;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.customPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.customPanel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.decor_content_parent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.decor_content_parent;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.default_activity_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.default_activity_button;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.design_bottom_sheet = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_bottom_sheet;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.design_menu_item_action_area = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_menu_item_action_area;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.design_menu_item_action_area_stub = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.design_menu_item_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_menu_item_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.design_navigation_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_navigation_view;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.disableHome = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.disableHome;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.edit_query = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.edit_query;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.end = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.end;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.end_padder = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.end_padder;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.enterAlways = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.enterAlways;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.enterAlwaysCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.exitUntilCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.exitUntilCollapsed;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.expanded_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.expanded_menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.expand_activities_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.expand_activities_button;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.fill = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.fill;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.filled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.filled;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.fill_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.fill_horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.fill_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.fill_vertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.@fixed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.@fixed;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.flyoutcontent_appbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.flyoutcontent_appbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.flyoutcontent_recycler = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.flyoutcontent_recycler;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.forever = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.forever;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.FUNCTION = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.FUNCTION;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.ghost_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.ghost_view;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.group_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.group_divider;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.home = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.home;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.homeAsUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.homeAsUp;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.icon_group = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.icon_group;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.ifRoom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.ifRoom;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.image = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.image;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.info = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.info;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.italic = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.italic;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.item_touch_helper_previous_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.labeled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.labeled;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.largeLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.largeLabel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.left;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.line1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.line1;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.line3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.line3;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.listMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.listMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.list_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.list_item;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.main_appbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_appbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.main_tablayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_tablayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.main_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.main_viewpager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_viewpager;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.masked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.masked;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.media_actions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.media_actions;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.message = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.message;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.META = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.META;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.middle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.middle;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.mini = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.mini;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.mtrl_child_content_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.mtrl_child_content_container;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.multiply = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.multiply;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.navigation_header_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.navigation_header_container;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.never = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.never;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.none = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.none;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.normal;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.notification_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.notification_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.notification_main_column = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.notification_main_column;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.notification_main_column_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.notification_main_column_container;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.outline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.outline;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.parallax = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.parallax;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.parentPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.parentPanel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.parent_matrix = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.parent_matrix;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.pin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.pin;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.progress_circular = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.progress_circular;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.progress_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.progress_horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.radio = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.radio;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.right;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.right_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.right_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.right_side = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.right_side;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.save_image_matrix = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.save_image_matrix;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.save_non_transition_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.save_non_transition_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.save_scale_type = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.save_scale_type;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.screen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.screen;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.scroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.scrollable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollable;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.scrollIndicatorDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollIndicatorDown;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.scrollIndicatorUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollIndicatorUp;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.scrollView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollView;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_badge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_badge;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_button;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_close_btn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_close_btn;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_edit_frame = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_edit_frame;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_go_btn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_go_btn;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_mag_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_mag_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_plate = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_plate;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_src_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_src_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.search_voice_btn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_voice_btn;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.selected = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.selected;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.select_dialog_listview = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.select_dialog_listview;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.shellcontent_appbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.shellcontent_appbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.shellcontent_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.shellcontent_toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.SHIFT = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.SHIFT;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.shortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.shortcut;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.showCustom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.showCustom;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.showHome = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.showHome;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.showTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.showTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.smallLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.smallLabel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.snackbar_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snackbar_action;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.snackbar_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snackbar_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.snap = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snap;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.snapMargins = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snapMargins;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.spacer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.spacer;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.split_action_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.split_action_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.src_atop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.src_atop;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.src_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.src_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.src_over = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.src_over;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.start = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.start;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.status_bar_latest_event_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.status_bar_latest_event_content;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.stretch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.stretch;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.submenuarrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.submenuarrow;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.submit_area = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.submit_area;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.SYM = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.SYM;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.tabMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tabMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.tag_transition_group = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tag_transition_group;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.tag_unhandled_key_event_manager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tag_unhandled_key_event_manager;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.tag_unhandled_key_listeners = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tag_unhandled_key_listeners;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.text2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.text2;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.textinput_counter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textinput_counter;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.textinput_error = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textinput_error;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.textinput_helper_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textinput_helper_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.textSpacerNoButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textSpacerNoButtons;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.textSpacerNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textSpacerNoTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.textStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.text_input_password_toggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.text_input_password_toggle;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.time = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.time;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.title;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.titleDividerNoCustom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.titleDividerNoCustom;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.title_template = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.title_template;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.top;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.topPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.topPanel;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.touch_outside = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.touch_outside;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.transition_current_scene = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_current_scene;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.transition_layout_save = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_layout_save;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.transition_position = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_position;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.transition_scene_layoutid_cache = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_scene_layoutid_cache;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.transition_transform = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_transform;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.uniform = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.uniform;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.unlabeled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.unlabeled;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.up = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.up;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.useLogo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.useLogo;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.view_offset_helper = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.view_offset_helper;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.visible;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.withText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.withText;
-			global::BurgerMonkeys.UI.Droid.Resource.Id.wrap_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.wrap_content;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.abc_config_activityDefaultDur = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.abc_config_activityShortDur = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.bottom_sheet_slide_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.cancel_button_image_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.config_tooltipAnimTime = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.config_tooltipAnimTime;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.design_snackbar_text_max_lines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.hide_password_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.hide_password_duration;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.mtrl_chip_anim_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_chip_anim_duration;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.show_password_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.show_password_duration;
-			global::BurgerMonkeys.UI.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::BurgerMonkeys.UI.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Interpolator.mtrl_linear = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_linear;
-			global::BurgerMonkeys.UI.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_action_bar_title_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_action_bar_up_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_action_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_action_menu_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_menu_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_action_mode_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_mode_bar;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_action_mode_close_item_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_activity_chooser_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_alert_dialog_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_alert_dialog_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_cascading_menu_item_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_dialog_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_dialog_title_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_expanded_menu_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_list_menu_item_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_list_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_list_menu_item_radio = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_popup_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_screen_content_include = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_content_include;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_screen_simple = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_simple;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_screen_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_search_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_search_view;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_select_dialog_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_select_dialog_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.abc_tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_tooltip;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.BottomTabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.BottomTabLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.browser_actions_context_menu_page = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.browser_actions_context_menu_page;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.browser_actions_context_menu_row = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.browser_actions_context_menu_row;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_bottom_navigation_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_bottom_navigation_item;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_bottom_sheet_dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_layout_snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_snackbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_layout_snackbar_include = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_layout_tab_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_tab_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_layout_tab_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_tab_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_menu_item_action_area = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_menu_item_action_area;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_navigation_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_navigation_item_header = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item_header;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_navigation_item_separator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item_separator;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_navigation_item_subheader = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_navigation_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_navigation_menu_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_menu_item;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.design_text_input_password_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_text_input_password_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.FlyoutContent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.FlyoutContent;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.mtrl_layout_snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.mtrl_layout_snackbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.mtrl_layout_snackbar_include;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_action;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_action_tombstone = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_action_tombstone;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_media_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_media_action;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_media_cancel_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_media_cancel_action;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_big_media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_big_media_custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media_custom;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_big_media_narrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_custom_big = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_custom_big;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_icon_group = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_icon_group;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_lines_media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_lines_media;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_media;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_media_custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_media_custom;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_part_chronometer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.notification_template_part_time = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_part_time;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.RootLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.RootLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.select_dialog_item_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.select_dialog_item_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.select_dialog_multichoice_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.select_dialog_singlechoice_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.ShellContent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.ShellContent;
-			global::BurgerMonkeys.UI.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_action_bar_home_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_bar_home_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_action_bar_up_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_bar_up_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_action_menu_overflow_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_action_mode_done = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_mode_done;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_activitychooserview_choose_application = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_activity_chooser_view_see_all = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_capital_off = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_capital_off;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_capital_on = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_capital_on;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_body_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_body_1_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_body_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_body_2_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_button_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_button_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_caption_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_caption_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_display_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_1_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_display_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_2_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_display_3_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_3_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_display_4_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_4_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_headline_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_headline_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_menu_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_menu_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_subhead_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_subhead_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_font_family_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_title_material;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_alt_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_alt_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_delete_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_delete_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_enter_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_enter_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_function_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_function_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_meta_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_meta_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_shift_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_shift_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_space_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_space_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_menu_sym_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_sym_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_prepend_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_prepend_shortcut_label;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_searchview_description_clear = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_clear;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_searchview_description_query = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_query;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_searchview_description_search = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_search;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_searchview_description_submit = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_submit;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_searchview_description_voice = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_voice;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_search_hint = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_search_hint;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_shareactionprovider_share_with = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::BurgerMonkeys.UI.Droid.Resource.String.abc_toolbar_collapse_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.appbar_scrolling_view_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.String.app_name = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.app_name;
-			global::BurgerMonkeys.UI.Droid.Resource.String.bottom_sheet_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.bottom_sheet_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.String.character_counter_content_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.character_counter_content_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.character_counter_pattern = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.character_counter_pattern;
-			global::BurgerMonkeys.UI.Droid.Resource.String.fab_transformation_scrim_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.fab_transformation_scrim_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.String.fab_transformation_sheet_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.fab_transformation_sheet_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.String.hello = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.hello;
-			global::BurgerMonkeys.UI.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.mtrl_chip_close_icon_content_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.password_toggle_content_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.password_toggle_content_description;
-			global::BurgerMonkeys.UI.Droid.Resource.String.path_password_eye = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_eye;
-			global::BurgerMonkeys.UI.Droid.Resource.String.path_password_eye_mask_strike_through = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_eye_mask_strike_through;
-			global::BurgerMonkeys.UI.Droid.Resource.String.path_password_eye_mask_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_eye_mask_visible;
-			global::BurgerMonkeys.UI.Droid.Resource.String.path_password_strike_through = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_strike_through;
-			global::BurgerMonkeys.UI.Droid.Resource.String.search_menu_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.search_menu_title;
-			global::BurgerMonkeys.UI.Droid.Resource.String.status_bar_notification_info_overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.AlertDialog_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Animation_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_AppCompat_Tooltip;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_CardView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V26_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V28_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.CardView_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView_Dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.CardView_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.collectionViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.collectionViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_V21_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_V25_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_Counter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_Error = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_HelperText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_HelperText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_Hint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Design_Tab = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_Design = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_Design_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_Design_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_EditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ListView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Compat_NotificationActionText;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_AppBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_BottomNavigationView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_NavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_Snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Design_TextInputLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_CardView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBarLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_displayOptions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_divider;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_homeLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_itemPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_logo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_logo;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_navigationMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_title;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMenuItemView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMenuItemView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMenuView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActivityChooserView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_android_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_listLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_showTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayoutStates = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_android_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_expanded = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatImageView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatImageView_android_src = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatImageView_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatSeekBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorError = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorError;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomNavigationView_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ButtonBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ButtonBarLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_android_minHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_android_minWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_cardCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_cardElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardElevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_cardMaxElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_contentPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_contentPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CardView_contentPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup_checkedChip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_checkedChip;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_chipSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup_singleLine = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_singleLine;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ChipGroup_singleSelection = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_singleSelection;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_android_checkable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_checkable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_android_ellipsize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_ellipsize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_maxWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_android_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_textAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_checkedIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_checkedIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_checkedIconEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_checkedIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_checkedIconVisible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipBackgroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipCornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconVisible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipMinHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipMinHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipStrokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipStrokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_closeIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconVisible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_hideMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_hideMotionSpec;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_iconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_iconEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_iconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_iconStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_rippleColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_showMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_showMotionSpec;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_textEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_textEndPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Chip_textStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_textStartPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ColorStateListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ColorStateListItem_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ColorStateListItem_android_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CompoundButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CompoundButton_android_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CompoundButton_buttonTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DesignTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DesignTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FlowLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FlowLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FlowLayout_itemSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FlowLayout_lineSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_android_font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_font;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_font;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ForegroundLinearLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColorItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColorItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColorItem_android_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColorItem_android_color;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColorItem_android_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColorItem_android_offset;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_centerColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_centerColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_centerX = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_centerX;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_centerY = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_centerY;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_endColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_endColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_endX = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_endX;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_endY = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_endY;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_startColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_startColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_startX = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_startX;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_startY = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_startY;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_tileMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_tileMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.GradientColor_android_type = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_type;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ListPopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_backgroundTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_cornerRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_iconGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_iconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_iconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_iconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_rippleColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_strokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_strokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_strokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialCardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialCardView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialCardView_strokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup_android_enabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuGroup_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_actionLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_actionViewClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_checkable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_checked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_enabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_id;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_onClick = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_title;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_contentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_contentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_iconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_iconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_iconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_iconTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_numericModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_numericModifiers;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_showAsAction = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuItem_tooltipText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_tooltipText;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_headerBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.MenuView_subMenuArrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_android_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_android_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_headerLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemIconPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_itemIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_itemTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.NavigationView_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_menu;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.PopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.PopupWindowBackgroundState = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecycleListView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecycleListView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_android_orientation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_layoutManager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_spanCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_android_focusable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_android_imeOptions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_android_inputType = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_closeIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_commitIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_goIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_goIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_queryBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_queryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_queryHint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_searchHintIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_searchIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_submitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SearchView_voiceIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Snackbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SnackbarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SnackbarLayout_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Snackbar_snackbarStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Spinner_android_entries = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_entries;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Spinner_android_popupBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Spinner_android_prompt = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Spinner_popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawableItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawableItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable_android_dither = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_dither;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.StateListDrawable_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_visible;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_showText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_track = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_track;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_trackTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabItem_android_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem_android_icon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabItem_android_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem_android_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabItem_android_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem_android_text;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabContentStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIconTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicator;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabRippleColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_textColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_textSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_android_typeface = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_fontFamily;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_android_hint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_helperText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_helperText;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ThemeEnforcement = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_android_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_android_minHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_buttonGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_collapseIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_logo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_logo;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_logoDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_navigationIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_title;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleMargins = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.Toolbar_titleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.View = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewBackgroundHelper = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewStubCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewStubCompat_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat_android_layout;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.View_android_focusable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_android_focusable;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.View_android_theme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_android_theme;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.View_paddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_paddingEnd;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.View_paddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_paddingStart;
-			global::BurgerMonkeys.UI.Droid.Resource.Styleable.View_theme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_theme;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_fade_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_fade_in;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_fade_out = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_fade_out;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_grow_fade_in_from_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_popup_enter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_popup_enter;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_popup_exit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_popup_exit;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_shrink_fade_out_from_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_slide_in_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_slide_in_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_in_top;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_slide_out_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_slide_out_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_slide_out_top;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_tooltip_enter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_tooltip_enter;
+			global::BurgerMonkeys.UI.Resource.Animation.abc_tooltip_exit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.abc_tooltip_exit;
+			global::BurgerMonkeys.UI.Resource.Animation.design_bottom_sheet_slide_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::BurgerMonkeys.UI.Resource.Animation.design_bottom_sheet_slide_out = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::BurgerMonkeys.UI.Resource.Animation.design_snackbar_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_snackbar_in;
+			global::BurgerMonkeys.UI.Resource.Animation.design_snackbar_out = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.design_snackbar_out;
+			global::BurgerMonkeys.UI.Resource.Animation.EnterFromLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.EnterFromLeft;
+			global::BurgerMonkeys.UI.Resource.Animation.EnterFromRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.EnterFromRight;
+			global::BurgerMonkeys.UI.Resource.Animation.ExitToLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.ExitToLeft;
+			global::BurgerMonkeys.UI.Resource.Animation.ExitToRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animation.ExitToRight;
+			global::BurgerMonkeys.UI.Resource.Animator.design_appbar_state_list_animator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::BurgerMonkeys.UI.Resource.Animator.design_fab_hide_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::BurgerMonkeys.UI.Resource.Animator.design_fab_show_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_btn_state_list_anim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_chip_state_list_anim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_fab_hide_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_fab_show_motion_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::BurgerMonkeys.UI.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarDivider;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarItemBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarPopupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarSplitStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarTabBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarTabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTabStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarTabTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionBarWidgetTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionDropDownStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionDropDownStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionMenuTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionMenuTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionMenuTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeCloseButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeCloseDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeCopyDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeCutDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeFindDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModePasteDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModePopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeSelectAllDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeShareDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeSplitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionModeWebSearchDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionOverflowButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionOverflowMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionProviderClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionProviderClass;
+			global::BurgerMonkeys.UI.Resource.Attribute.actionViewClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.actionViewClass;
+			global::BurgerMonkeys.UI.Resource.Attribute.activityChooserViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.alertDialogButtonGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.alertDialogCenterButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::BurgerMonkeys.UI.Resource.Attribute.alertDialogStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.alertDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alertDialogTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.allowStacking = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.allowStacking;
+			global::BurgerMonkeys.UI.Resource.Attribute.alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alpha;
+			global::BurgerMonkeys.UI.Resource.Attribute.alphabeticModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alphabeticModifiers;
+			global::BurgerMonkeys.UI.Resource.Attribute.arrowHeadLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.arrowHeadLength;
+			global::BurgerMonkeys.UI.Resource.Attribute.arrowShaftLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.arrowShaftLength;
+			global::BurgerMonkeys.UI.Resource.Attribute.autoCompleteTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.autoSizeMaxTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.autoSizeMinTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.autoSizePresetSizes = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::BurgerMonkeys.UI.Resource.Attribute.autoSizeStepGranularity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::BurgerMonkeys.UI.Resource.Attribute.autoSizeTextType = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.autoSizeTextType;
+			global::BurgerMonkeys.UI.Resource.Attribute.background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.background;
+			global::BurgerMonkeys.UI.Resource.Attribute.backgroundSplit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundSplit;
+			global::BurgerMonkeys.UI.Resource.Attribute.backgroundStacked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundStacked;
+			global::BurgerMonkeys.UI.Resource.Attribute.backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.backgroundTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.barLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.barLength;
+			global::BurgerMonkeys.UI.Resource.Attribute.behavior_autoHide = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_autoHide;
+			global::BurgerMonkeys.UI.Resource.Attribute.behavior_fitToContents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_fitToContents;
+			global::BurgerMonkeys.UI.Resource.Attribute.behavior_hideable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_hideable;
+			global::BurgerMonkeys.UI.Resource.Attribute.behavior_overlapTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_overlapTop;
+			global::BurgerMonkeys.UI.Resource.Attribute.behavior_peekHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_peekHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.behavior_skipCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::BurgerMonkeys.UI.Resource.Attribute.borderlessButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.borderWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.borderWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.bottomAppBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.bottomNavigationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.bottomSheetDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.bottomSheetStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.bottomSheetStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxBackgroundColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxBackgroundMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxBackgroundMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxCollapsedPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxCornerRadiusBottomEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxCornerRadiusBottomStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxCornerRadiusTopEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxCornerRadiusTopStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxStrokeColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.boxStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.boxStrokeWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonBarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonBarNegativeButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonBarNeutralButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonBarPositiveButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonIconDimen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonIconDimen;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonPanelSideLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonStyleSmall;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.buttonTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.buttonTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardBackgroundColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardElevation;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardMaxElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardMaxElevation;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardPreventCornerOverlap = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardUseCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.cardViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cardViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.checkboxStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkboxStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.checkedChip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedChip;
+			global::BurgerMonkeys.UI.Resource.Attribute.checkedIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.checkedIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedIconEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.checkedIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedIconVisible;
+			global::BurgerMonkeys.UI.Resource.Attribute.checkedTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipBackgroundColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipEndPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipGroupStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipIconVisible;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipMinHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipMinHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipSpacing;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipSpacingHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipSpacingVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipSpacingVertical;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipStandaloneStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStartPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStrokeColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStrokeWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.chipStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.chipStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconEndPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconStartPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeIconVisible;
+			global::BurgerMonkeys.UI.Resource.Attribute.closeItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.closeItemLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.collapseContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapseContentDescription;
+			global::BurgerMonkeys.UI.Resource.Attribute.collapsedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.collapsedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.collapseIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.collapseIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.color;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorAccent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorAccent;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorBackgroundFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorButtonNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorButtonNormal;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorControlActivated = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorControlActivated;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorControlHighlight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorControlHighlight;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorControlNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorControlNormal;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorError = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorError;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorPrimary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorPrimary;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorPrimaryDark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorPrimaryDark;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorSecondary;
+			global::BurgerMonkeys.UI.Resource.Attribute.colorSwitchThumbNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::BurgerMonkeys.UI.Resource.Attribute.commitIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.commitIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentDescription;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentInsetEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentInsetEndWithActions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentInsetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetLeft;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentInsetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetRight;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentInsetStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentInsetStartWithNavigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingBottom;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingLeft;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingRight;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentPaddingTop;
+			global::BurgerMonkeys.UI.Resource.Attribute.contentScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.contentScrim;
+			global::BurgerMonkeys.UI.Resource.Attribute.controlBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.controlBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.coordinatorLayoutStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.cornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.cornerRadius;
+			global::BurgerMonkeys.UI.Resource.Attribute.counterEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.counterMaxLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterMaxLength;
+			global::BurgerMonkeys.UI.Resource.Attribute.counterOverflowTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.counterTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.counterTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.customNavigationLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.customNavigationLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.defaultQueryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.defaultQueryHint;
+			global::BurgerMonkeys.UI.Resource.Attribute.dialogCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dialogCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Attribute.dialogPreferredPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.dialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dialogTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.displayOptions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.displayOptions;
+			global::BurgerMonkeys.UI.Resource.Attribute.divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.divider;
+			global::BurgerMonkeys.UI.Resource.Attribute.dividerHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dividerHorizontal;
+			global::BurgerMonkeys.UI.Resource.Attribute.dividerPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dividerPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.dividerVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dividerVertical;
+			global::BurgerMonkeys.UI.Resource.Attribute.drawableSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.drawableSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.drawerArrowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.drawerArrowStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.dropdownListPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.dropDownListViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.editTextBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.editTextBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.editTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.editTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.editTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.editTextStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.elevation;
+			global::BurgerMonkeys.UI.Resource.Attribute.enforceMaterialTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.enforceTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.enforceTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.errorEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.errorEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.errorTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.errorTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandActivityOverflowButtonDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.expanded = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expanded;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMargin;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::BurgerMonkeys.UI.Resource.Attribute.expandedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.fabAlignmentMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabAlignmentMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.fabCradleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCradleMargin;
+			global::BurgerMonkeys.UI.Resource.Attribute.fabCradleRoundedCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Attribute.fabCradleVerticalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::BurgerMonkeys.UI.Resource.Attribute.fabCustomSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabCustomSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.fabSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fabSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.fastScrollEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.fastScrollVerticalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.fastScrollVerticalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.firstBaselineToTopHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.floatingActionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.font;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontFamily;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontProviderAuthority = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderAuthority;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontProviderCerts = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderCerts;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontProviderFetchStrategy = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontProviderFetchTimeout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontProviderPackage = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderPackage;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontProviderQuery = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontProviderQuery;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontVariationSettings = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontVariationSettings;
+			global::BurgerMonkeys.UI.Resource.Attribute.fontWeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.fontWeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.foregroundInsidePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.gapBetweenBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.gapBetweenBars;
+			global::BurgerMonkeys.UI.Resource.Attribute.goIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.goIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.headerLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.headerLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.height;
+			global::BurgerMonkeys.UI.Resource.Attribute.helperText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.helperText;
+			global::BurgerMonkeys.UI.Resource.Attribute.helperTextEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.helperTextEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.helperTextTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.hideMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hideMotionSpec;
+			global::BurgerMonkeys.UI.Resource.Attribute.hideOnContentScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hideOnContentScroll;
+			global::BurgerMonkeys.UI.Resource.Attribute.hideOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hideOnScroll;
+			global::BurgerMonkeys.UI.Resource.Attribute.hintAnimationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.hintEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hintEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.hintTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hintTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.homeAsUpIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::BurgerMonkeys.UI.Resource.Attribute.homeLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.homeLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.hoveredFocusedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::BurgerMonkeys.UI.Resource.Attribute.icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.icon;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconEndPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconifiedByDefault = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconifiedByDefault;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconStartPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.iconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.iconTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.imageButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.imageButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.indeterminateProgressStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.initialActivityCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.initialActivityCount;
+			global::BurgerMonkeys.UI.Resource.Attribute.insetForeground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.insetForeground;
+			global::BurgerMonkeys.UI.Resource.Attribute.isLightTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.isLightTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemHorizontalPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemHorizontalTranslationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemIconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemIconPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemIconSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemIconTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemSpacing;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemTextAppearanceActive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemTextAppearanceInactive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::BurgerMonkeys.UI.Resource.Attribute.itemTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.itemTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.keylines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.keylines;
+			global::BurgerMonkeys.UI.Resource.Attribute.labelVisibilityMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.labelVisibilityMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.lastBaselineToBottomHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout;
+			global::BurgerMonkeys.UI.Resource.Attribute.layoutManager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layoutManager;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_anchor;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_anchorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_anchorGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_behavior;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_collapseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_collapseMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_collapseParallaxMultiplier = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_dodgeInsetEdges = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_insetEdge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_insetEdge;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_keyline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_keyline;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_scrollFlags = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_scrollFlags;
+			global::BurgerMonkeys.UI.Resource.Attribute.layout_scrollInterpolator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::BurgerMonkeys.UI.Resource.Attribute.liftOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.liftOnScroll;
+			global::BurgerMonkeys.UI.Resource.Attribute.lineHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.lineHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.lineSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.lineSpacing;
+			global::BurgerMonkeys.UI.Resource.Attribute.listChoiceBackgroundIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::BurgerMonkeys.UI.Resource.Attribute.listDividerAlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::BurgerMonkeys.UI.Resource.Attribute.listItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listItemLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.listLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.listMenuViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listMenuViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.listPopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.listPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.listPreferredItemHeightLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::BurgerMonkeys.UI.Resource.Attribute.listPreferredItemHeightSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::BurgerMonkeys.UI.Resource.Attribute.listPreferredItemPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::BurgerMonkeys.UI.Resource.Attribute.listPreferredItemPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::BurgerMonkeys.UI.Resource.Attribute.logo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.logo;
+			global::BurgerMonkeys.UI.Resource.Attribute.logoDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.logoDescription;
+			global::BurgerMonkeys.UI.Resource.Attribute.materialButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.materialButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.materialCardViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.materialCardViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.maxActionInlineWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.maxButtonHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.maxButtonHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.maxImageSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.maxImageSize;
+			global::BurgerMonkeys.UI.Resource.Attribute.measureWithLargestChild = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.measureWithLargestChild;
+			global::BurgerMonkeys.UI.Resource.Attribute.menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.menu;
+			global::BurgerMonkeys.UI.Resource.Attribute.multiChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.navigationContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationContentDescription;
+			global::BurgerMonkeys.UI.Resource.Attribute.navigationIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.navigationMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.navigationViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.navigationViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.numericModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.numericModifiers;
+			global::BurgerMonkeys.UI.Resource.Attribute.overlapAnchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.overlapAnchor;
+			global::BurgerMonkeys.UI.Resource.Attribute.paddingBottomNoButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::BurgerMonkeys.UI.Resource.Attribute.paddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.paddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.paddingTopNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::BurgerMonkeys.UI.Resource.Attribute.panelBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.panelBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.panelMenuListTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.panelMenuListTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.panelMenuListWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.panelMenuListWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.passwordToggleContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::BurgerMonkeys.UI.Resource.Attribute.passwordToggleDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::BurgerMonkeys.UI.Resource.Attribute.passwordToggleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.passwordToggleTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.passwordToggleTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.popupMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.popupMenuStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.popupTheme;
+			global::BurgerMonkeys.UI.Resource.Attribute.popupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.popupWindowStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.preserveIconSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.preserveIconSpacing;
+			global::BurgerMonkeys.UI.Resource.Attribute.pressedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.pressedTranslationZ;
+			global::BurgerMonkeys.UI.Resource.Attribute.progressBarPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.progressBarPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.progressBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.progressBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.queryBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.queryBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.queryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.queryHint;
+			global::BurgerMonkeys.UI.Resource.Attribute.radioButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.radioButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.ratingBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ratingBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.ratingBarStyleIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::BurgerMonkeys.UI.Resource.Attribute.ratingBarStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::BurgerMonkeys.UI.Resource.Attribute.reverseLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.reverseLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.rippleColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.scrimAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::BurgerMonkeys.UI.Resource.Attribute.scrimBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.scrimBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.scrimVisibleHeightTrigger = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::BurgerMonkeys.UI.Resource.Attribute.searchHintIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.searchHintIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.searchIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.searchIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.searchViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.searchViewStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.seekBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.seekBarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.selectableItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.selectableItemBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.selectableItemBackgroundBorderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::BurgerMonkeys.UI.Resource.Attribute.showAsAction = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showAsAction;
+			global::BurgerMonkeys.UI.Resource.Attribute.showDividers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showDividers;
+			global::BurgerMonkeys.UI.Resource.Attribute.showMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showMotionSpec;
+			global::BurgerMonkeys.UI.Resource.Attribute.showText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showText;
+			global::BurgerMonkeys.UI.Resource.Attribute.showTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.showTitle;
+			global::BurgerMonkeys.UI.Resource.Attribute.singleChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.singleLine = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.singleLine;
+			global::BurgerMonkeys.UI.Resource.Attribute.singleSelection = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.singleSelection;
+			global::BurgerMonkeys.UI.Resource.Attribute.snackbarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.snackbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.snackbarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.spanCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spanCount;
+			global::BurgerMonkeys.UI.Resource.Attribute.spinBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spinBars;
+			global::BurgerMonkeys.UI.Resource.Attribute.spinnerDropDownItemStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.spinnerStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.spinnerStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.splitTrack = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.splitTrack;
+			global::BurgerMonkeys.UI.Resource.Attribute.srcCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.srcCompat;
+			global::BurgerMonkeys.UI.Resource.Attribute.stackFromEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.stackFromEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.state_above_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_above_anchor;
+			global::BurgerMonkeys.UI.Resource.Attribute.state_collapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_collapsed;
+			global::BurgerMonkeys.UI.Resource.Attribute.state_collapsible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_collapsible;
+			global::BurgerMonkeys.UI.Resource.Attribute.state_liftable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_liftable;
+			global::BurgerMonkeys.UI.Resource.Attribute.state_lifted = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.state_lifted;
+			global::BurgerMonkeys.UI.Resource.Attribute.statusBarBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.statusBarBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.statusBarScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.statusBarScrim;
+			global::BurgerMonkeys.UI.Resource.Attribute.strokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.strokeColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.strokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.strokeWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.subMenuArrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subMenuArrow;
+			global::BurgerMonkeys.UI.Resource.Attribute.submitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.submitBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitle;
+			global::BurgerMonkeys.UI.Resource.Attribute.subtitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.subtitleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitleTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.subtitleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.subtitleTextStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.suggestionRowLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.suggestionRowLayout;
+			global::BurgerMonkeys.UI.Resource.Attribute.switchMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchMinWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.switchPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.switchStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.switchTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.switchTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabContentStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabContentStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIconTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIconTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicator;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIndicatorAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIndicatorColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIndicatorFullWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIndicatorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabIndicatorHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabInlineLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabInlineLabel;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabMaxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabMaxWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabMinWidth;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingBottom;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabPaddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabPaddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabPaddingTop;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabRippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabRippleColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabSelectedTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.tabUnboundedRipple = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAllCaps;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceBody1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceBody1;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceBody2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceBody2;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceButton;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceCaption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceCaption;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceHeadline1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceHeadline2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceHeadline3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceHeadline4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceHeadline5 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceHeadline6 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceLargePopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceListItem;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceListItemSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceListItemSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceOverline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceOverline;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearancePopupMenuHeader = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceSearchResultSubtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceSearchResultTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceSmallPopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceSubtitle1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::BurgerMonkeys.UI.Resource.Attribute.textAppearanceSubtitle2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::BurgerMonkeys.UI.Resource.Attribute.textColorAlertDialogListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::BurgerMonkeys.UI.Resource.Attribute.textColorSearchUrl = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textColorSearchUrl;
+			global::BurgerMonkeys.UI.Resource.Attribute.textEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textEndPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.textInputStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textInputStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.textStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.textStartPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.theme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.theme;
+			global::BurgerMonkeys.UI.Resource.Attribute.thickness = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thickness;
+			global::BurgerMonkeys.UI.Resource.Attribute.thumbTextPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thumbTextPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.thumbTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thumbTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.thumbTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.thumbTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.tickMark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tickMark;
+			global::BurgerMonkeys.UI.Resource.Attribute.tickMarkTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tickMarkTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.tickMarkTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tickMarkTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tint;
+			global::BurgerMonkeys.UI.Resource.Attribute.tintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.title;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleEnabled;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMargin;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginBottom;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginEnd;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleMargins = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMargins;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginStart;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleMarginTop;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleTextColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.titleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.titleTextStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.toolbarId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.toolbarId;
+			global::BurgerMonkeys.UI.Resource.Attribute.toolbarNavigationButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.toolbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.toolbarStyle;
+			global::BurgerMonkeys.UI.Resource.Attribute.tooltipForegroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::BurgerMonkeys.UI.Resource.Attribute.tooltipFrameBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::BurgerMonkeys.UI.Resource.Attribute.tooltipText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.tooltipText;
+			global::BurgerMonkeys.UI.Resource.Attribute.track = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.track;
+			global::BurgerMonkeys.UI.Resource.Attribute.trackTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.trackTint;
+			global::BurgerMonkeys.UI.Resource.Attribute.trackTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.trackTintMode;
+			global::BurgerMonkeys.UI.Resource.Attribute.ttcIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.ttcIndex;
+			global::BurgerMonkeys.UI.Resource.Attribute.useCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.useCompatPadding;
+			global::BurgerMonkeys.UI.Resource.Attribute.viewInflaterClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.viewInflaterClass;
+			global::BurgerMonkeys.UI.Resource.Attribute.voiceIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.voiceIcon;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowActionBar;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowActionBarOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowActionModeOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowFixedHeightMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowFixedHeightMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowFixedWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowFixedWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowMinWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowMinWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::BurgerMonkeys.UI.Resource.Attribute.windowNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.windowNoTitle;
+			global::BurgerMonkeys.UI.Resource.Boolean.abc_action_bar_embed_tabs = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::BurgerMonkeys.UI.Resource.Boolean.abc_allow_stacked_button_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::BurgerMonkeys.UI.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::BurgerMonkeys.UI.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::BurgerMonkeys.UI.Resource.Color.abc_background_cache_hint_selector_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.abc_background_cache_hint_selector_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.abc_btn_colored_borderless_text_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::BurgerMonkeys.UI.Resource.Color.abc_btn_colored_text_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::BurgerMonkeys.UI.Resource.Color.abc_color_highlight_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_color_highlight_material;
+			global::BurgerMonkeys.UI.Resource.Color.abc_hint_foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.abc_hint_foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.abc_input_method_navigation_guard = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::BurgerMonkeys.UI.Resource.Color.abc_primary_text_disable_only_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.abc_primary_text_disable_only_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.abc_primary_text_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.abc_primary_text_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_primary_text_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.abc_search_url_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text;
+			global::BurgerMonkeys.UI.Resource.Color.abc_search_url_text_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text_normal;
+			global::BurgerMonkeys.UI.Resource.Color.abc_search_url_text_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::BurgerMonkeys.UI.Resource.Color.abc_search_url_text_selected = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_search_url_text_selected;
+			global::BurgerMonkeys.UI.Resource.Color.abc_secondary_text_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.abc_secondary_text_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.abc_tint_btn_checkable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::BurgerMonkeys.UI.Resource.Color.abc_tint_default = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_default;
+			global::BurgerMonkeys.UI.Resource.Color.abc_tint_edittext = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_edittext;
+			global::BurgerMonkeys.UI.Resource.Color.abc_tint_seek_thumb = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::BurgerMonkeys.UI.Resource.Color.abc_tint_spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_spinner;
+			global::BurgerMonkeys.UI.Resource.Color.abc_tint_switch_track = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.abc_tint_switch_track;
+			global::BurgerMonkeys.UI.Resource.Color.accent_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.accent_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.accent_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.accent_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.background_floating_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_floating_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.background_floating_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_floating_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.background_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.background_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.background_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.bright_foreground_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.bright_foreground_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.bright_foreground_inverse_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.bright_foreground_inverse_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.bright_foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.bright_foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.bright_foreground_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.browser_actions_bg_grey = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_bg_grey;
+			global::BurgerMonkeys.UI.Resource.Color.browser_actions_divider_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_divider_color;
+			global::BurgerMonkeys.UI.Resource.Color.browser_actions_text_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_text_color;
+			global::BurgerMonkeys.UI.Resource.Color.browser_actions_title_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.browser_actions_title_color;
+			global::BurgerMonkeys.UI.Resource.Color.button_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.button_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.button_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.button_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.cardview_dark_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_dark_background;
+			global::BurgerMonkeys.UI.Resource.Color.cardview_light_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_light_background;
+			global::BurgerMonkeys.UI.Resource.Color.cardview_shadow_end_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_shadow_end_color;
+			global::BurgerMonkeys.UI.Resource.Color.cardview_shadow_start_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.cardview_shadow_start_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_bottom_navigation_shadow_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_default_color_primary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_default_color_primary;
+			global::BurgerMonkeys.UI.Resource.Color.design_default_color_primary_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_default_color_primary_dark;
+			global::BurgerMonkeys.UI.Resource.Color.design_error = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_error;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_shadow_end_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_shadow_mid_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_shadow_start_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_stroke_end_inner_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_stroke_end_outer_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_stroke_top_inner_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_fab_stroke_top_outer_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_snackbar_background_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_snackbar_background_color;
+			global::BurgerMonkeys.UI.Resource.Color.design_tint_password_toggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.design_tint_password_toggle;
+			global::BurgerMonkeys.UI.Resource.Color.dim_foreground_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.dim_foreground_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.dim_foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.dim_foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.dim_foreground_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.error_color_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.error_color_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.error_color_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.error_color_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.foreground_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.foreground_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.foreground_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.foreground_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.highlighted_text_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.highlighted_text_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.highlighted_text_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.highlighted_text_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.material_blue_grey_800 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_blue_grey_800;
+			global::BurgerMonkeys.UI.Resource.Color.material_blue_grey_900 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_blue_grey_900;
+			global::BurgerMonkeys.UI.Resource.Color.material_blue_grey_950 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_blue_grey_950;
+			global::BurgerMonkeys.UI.Resource.Color.material_deep_teal_200 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_deep_teal_200;
+			global::BurgerMonkeys.UI.Resource.Color.material_deep_teal_500 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_deep_teal_500;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_100 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_100;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_300 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_300;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_50 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_50;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_600 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_600;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_800 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_800;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_850 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_850;
+			global::BurgerMonkeys.UI.Resource.Color.material_grey_900 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.material_grey_900;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_bottom_nav_item_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_bg_color_disabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_bg_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_stroke_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_text_btn_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_text_color_disabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_text_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_btn_transparent_bg_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_chip_background_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_background_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_chip_close_icon_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_chip_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_chip_text_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_chip_text_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_fab_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_scrim_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_scrim_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_tabs_colored_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_tabs_icon_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_tabs_ripple_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_textinput_default_box_stroke_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_textinput_disabled_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::BurgerMonkeys.UI.Resource.Color.mtrl_text_btn_text_color_selector = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::BurgerMonkeys.UI.Resource.Color.notification_action_color_filter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.notification_action_color_filter;
+			global::BurgerMonkeys.UI.Resource.Color.notification_icon_bg_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.notification_icon_bg_color;
+			global::BurgerMonkeys.UI.Resource.Color.notification_material_background_media_default_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::BurgerMonkeys.UI.Resource.Color.primary_dark_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_dark_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.primary_dark_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_dark_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.primary_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.primary_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.primary_text_default_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_default_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.primary_text_default_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_default_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.primary_text_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.primary_text_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.ripple_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.ripple_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.ripple_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.ripple_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.secondary_text_default_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.secondary_text_default_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_default_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.secondary_text_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.secondary_text_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.switch_thumb_disabled_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.switch_thumb_disabled_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.switch_thumb_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.switch_thumb_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.switch_thumb_normal_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::BurgerMonkeys.UI.Resource.Color.switch_thumb_normal_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::BurgerMonkeys.UI.Resource.Color.tooltip_background_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.tooltip_background_dark;
+			global::BurgerMonkeys.UI.Resource.Color.tooltip_background_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Color.tooltip_background_light;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_content_inset_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_default_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_default_padding_end_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_default_padding_start_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_elevation_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_stacked_max_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_button_min_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_button_min_width_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_action_button_min_width_overflow_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_alert_dialog_button_bar_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_alert_dialog_button_dimen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_button_inset_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_button_inset_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_button_padding_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_button_padding_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_config_prefDialogWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_control_corner_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_control_corner_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_control_inset_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_control_inset_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_control_padding_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_control_padding_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_corner_radius_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_fixed_height_major = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_fixed_height_minor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_fixed_width_major = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_fixed_width_minor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_min_width_major = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_min_width_minor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_padding_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_padding_top_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dialog_title_divider_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_disabled_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_disabled_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dropdownitem_icon_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dropdownitem_text_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_dropdownitem_text_padding_right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_edit_text_inset_bottom_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_edit_text_inset_top_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_floating_window_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_floating_window_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_list_item_padding_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_panel_menu_list_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_progress_bar_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_search_view_preferred_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_search_view_preferred_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_seekbar_track_background_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_seekbar_track_progress_height_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_select_dialog_padding_start_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_switch_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_switch_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_body_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_body_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_button_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_caption_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_display_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_display_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_display_3_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_display_4_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_headline_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_large_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_medium_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_menu_header_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_menu_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_small_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_subhead_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.abc_text_size_title_material_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::BurgerMonkeys.UI.Resource.Dimension.browser_actions_context_menu_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.browser_actions_context_menu_min_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.cardview_compat_inset_shadow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::BurgerMonkeys.UI.Resource.Dimension.cardview_default_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.cardview_default_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.cardview_default_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.cardview_default_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_button_inset_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_button_inset_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_button_padding_horizontal_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_button_padding_vertical_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_control_corner_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_control_corner_material;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_notification_large_icon_max_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.compat_notification_large_icon_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_appbar_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_appbar_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_active_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_item_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_item_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_shadow_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_navigation_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_sheet_modal_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_bottom_sheet_peek_height_min = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_border_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_border_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_image_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_image_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_size_mini = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_size_mini;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_size_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_size_normal;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_translation_z_hovered_focused = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_fab_translation_z_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_item_horizontal_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_item_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_padding_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_navigation_separator_vertical_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_action_inline_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_background_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_padding_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_padding_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_snackbar_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_tab_max_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_max_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_tab_scrollable_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_tab_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_tab_text_size_2line = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::BurgerMonkeys.UI.Resource.Dimension.design_textinput_caption_translate_y = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::BurgerMonkeys.UI.Resource.Dimension.disabled_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::BurgerMonkeys.UI.Resource.Dimension.disabled_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::BurgerMonkeys.UI.Resource.Dimension.fastscroll_default_thickness = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::BurgerMonkeys.UI.Resource.Dimension.fastscroll_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.fastscroll_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.fastscroll_minimum_range = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::BurgerMonkeys.UI.Resource.Dimension.highlight_alpha_material_colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::BurgerMonkeys.UI.Resource.Dimension.highlight_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::BurgerMonkeys.UI.Resource.Dimension.highlight_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::BurgerMonkeys.UI.Resource.Dimension.hint_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::BurgerMonkeys.UI.Resource.Dimension.hint_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::BurgerMonkeys.UI.Resource.Dimension.hint_pressed_alpha_material_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::BurgerMonkeys.UI.Resource.Dimension.hint_pressed_alpha_material_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::BurgerMonkeys.UI.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::BurgerMonkeys.UI.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::BurgerMonkeys.UI.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_bottomappbar_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_disabled_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_disabled_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_focused_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_hovered_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_inset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_letter_spacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_padding_bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_padding_right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_padding_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_pressed_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_stroke_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_btn_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_btn_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_card_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_card_spacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_chip_pressed_translation_z = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_chip_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_fab_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_fab_translation_z_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_navigation_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_navigation_item_icon_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_snackbar_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_padding_end = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.mtrl_toolbar_default_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_action_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_action_icon_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_action_text_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_action_text_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_big_circle_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_content_margin_start = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_content_margin_start;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_large_icon_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_large_icon_height;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_large_icon_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_large_icon_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_main_column_padding_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_media_narrow_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_right_icon_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_right_icon_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_right_side_padding_top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_small_icon_background_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_small_icon_size_as_large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_subtext_size = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_subtext_size;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_top_pad = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_top_pad;
+			global::BurgerMonkeys.UI.Resource.Dimension.notification_top_pad_large_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::BurgerMonkeys.UI.Resource.Dimension.subtitle_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_corner_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.subtitle_outline_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_outline_width;
+			global::BurgerMonkeys.UI.Resource.Dimension.subtitle_shadow_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_shadow_offset;
+			global::BurgerMonkeys.UI.Resource.Dimension.subtitle_shadow_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.subtitle_shadow_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_corner_radius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_horizontal_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_margin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_margin;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_precise_anchor_threshold = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_vertical_padding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_y_offset_non_touch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::BurgerMonkeys.UI.Resource.Dimension.tooltip_y_offset_touch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_action_bar_item_background_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_borderless_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_check_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_check_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_colored_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_default_mtrl_shape = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_radio_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_cab_background_internal_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_cab_background_top_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_control_background_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_control_background_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_dialog_material_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_edit_text_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_edit_text_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_ab_back_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_clear_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_go_search_api_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_menu_overflow_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_search_api_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_star_black_16dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_star_black_36dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_star_black_48dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_star_half_black_16dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_star_half_black_36dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_star_half_black_48dp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ic_voice_search_api_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_item_background_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_item_background_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_divider_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_divider_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_divider_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_focused_holo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_longpressed_holo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_pressed_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_pressed_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_selector_disabled_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_selector_holo_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_list_selector_holo_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_popup_background_mtrl_mult = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ratingbar_indicator_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ratingbar_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_ratingbar_small_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_seekbar_thumb_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_seekbar_tick_mark_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_seekbar_track_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_spinner_textfield_background_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_switch_thumb_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_switch_track_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_tab_indicator_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_textfield_search_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_cursor_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::BurgerMonkeys.UI.Resource.Drawable.abc_vector_test = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.abc_vector_test;
+			global::BurgerMonkeys.UI.Resource.Drawable.avd_hide_password = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.avd_hide_password;
+			global::BurgerMonkeys.UI.Resource.Drawable.avd_show_password = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.avd_show_password;
+			global::BurgerMonkeys.UI.Resource.Drawable.design_bottom_navigation_item_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.design_fab_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_fab_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.design_ic_visibility = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_ic_visibility;
+			global::BurgerMonkeys.UI.Resource.Drawable.design_ic_visibility_off = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::BurgerMonkeys.UI.Resource.Drawable.design_password_eye = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_password_eye;
+			global::BurgerMonkeys.UI.Resource.Drawable.design_snackbar_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.design_snackbar_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.ic_mtrl_chip_checked_black = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::BurgerMonkeys.UI.Resource.Drawable.ic_mtrl_chip_checked_circle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::BurgerMonkeys.UI.Resource.Drawable.ic_mtrl_chip_close_circle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::BurgerMonkeys.UI.Resource.Drawable.mtrl_snackbar_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.mtrl_snackbar_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.mtrl_tabs_default_indicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::BurgerMonkeys.UI.Resource.Drawable.navigation_empty_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.navigation_empty_icon;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_action_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_action_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_bg_low = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_low;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_bg_low_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_bg_low_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_bg_normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_normal;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_bg_normal_pressed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_icon_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_icon_background;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_template_icon_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_template_icon_low_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::BurgerMonkeys.UI.Resource.Drawable.notification_tile_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notification_tile_bg;
+			global::BurgerMonkeys.UI.Resource.Drawable.notify_panel_notification_icon_bg = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::BurgerMonkeys.UI.Resource.Drawable.tooltip_frame_dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::BurgerMonkeys.UI.Resource.Drawable.tooltip_frame_light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Drawable.tooltip_frame_light;
+			global::BurgerMonkeys.UI.Resource.Id.action0 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action0;
+			global::BurgerMonkeys.UI.Resource.Id.actions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.actions;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar_activity_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_activity_content;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_container;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar_root = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_root;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar_spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_spinner;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar_subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_subtitle;
+			global::BurgerMonkeys.UI.Resource.Id.action_bar_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_bar_title;
+			global::BurgerMonkeys.UI.Resource.Id.action_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_container;
+			global::BurgerMonkeys.UI.Resource.Id.action_context_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_context_bar;
+			global::BurgerMonkeys.UI.Resource.Id.action_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_divider;
+			global::BurgerMonkeys.UI.Resource.Id.action_image = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_image;
+			global::BurgerMonkeys.UI.Resource.Id.action_menu_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_menu_divider;
+			global::BurgerMonkeys.UI.Resource.Id.action_menu_presenter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_menu_presenter;
+			global::BurgerMonkeys.UI.Resource.Id.action_mode_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_mode_bar;
+			global::BurgerMonkeys.UI.Resource.Id.action_mode_bar_stub = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_mode_bar_stub;
+			global::BurgerMonkeys.UI.Resource.Id.action_mode_close_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_mode_close_button;
+			global::BurgerMonkeys.UI.Resource.Id.action_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.action_text;
+			global::BurgerMonkeys.UI.Resource.Id.activity_chooser_view_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.activity_chooser_view_content;
+			global::BurgerMonkeys.UI.Resource.Id.add = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.add;
+			global::BurgerMonkeys.UI.Resource.Id.alertTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.alertTitle;
+			global::BurgerMonkeys.UI.Resource.Id.all = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.all;
+			global::BurgerMonkeys.UI.Resource.Id.ALT = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.ALT;
+			global::BurgerMonkeys.UI.Resource.Id.always = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.always;
+			global::BurgerMonkeys.UI.Resource.Id.async = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.async;
+			global::BurgerMonkeys.UI.Resource.Id.auto = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.auto;
+			global::BurgerMonkeys.UI.Resource.Id.beginning = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.beginning;
+			global::BurgerMonkeys.UI.Resource.Id.blocking = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.blocking;
+			global::BurgerMonkeys.UI.Resource.Id.bottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.bottom;
+			global::BurgerMonkeys.UI.Resource.Id.bottomtab_navarea = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.bottomtab_navarea;
+			global::BurgerMonkeys.UI.Resource.Id.bottomtab_tabbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.bottomtab_tabbar;
+			global::BurgerMonkeys.UI.Resource.Id.browser_actions_header_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_header_text;
+			global::BurgerMonkeys.UI.Resource.Id.browser_actions_menu_items = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_items;
+			global::BurgerMonkeys.UI.Resource.Id.browser_actions_menu_item_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::BurgerMonkeys.UI.Resource.Id.browser_actions_menu_item_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::BurgerMonkeys.UI.Resource.Id.browser_actions_menu_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.browser_actions_menu_view;
+			global::BurgerMonkeys.UI.Resource.Id.buttonPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.buttonPanel;
+			global::BurgerMonkeys.UI.Resource.Id.cancel_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.cancel_action;
+			global::BurgerMonkeys.UI.Resource.Id.center = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.center;
+			global::BurgerMonkeys.UI.Resource.Id.center_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.center_horizontal;
+			global::BurgerMonkeys.UI.Resource.Id.center_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.center_vertical;
+			global::BurgerMonkeys.UI.Resource.Id.checkbox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.checkbox;
+			global::BurgerMonkeys.UI.Resource.Id.chronometer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.chronometer;
+			global::BurgerMonkeys.UI.Resource.Id.clip_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.clip_horizontal;
+			global::BurgerMonkeys.UI.Resource.Id.clip_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.clip_vertical;
+			global::BurgerMonkeys.UI.Resource.Id.collapseActionView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.collapseActionView;
+			global::BurgerMonkeys.UI.Resource.Id.container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.container;
+			global::BurgerMonkeys.UI.Resource.Id.content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.content;
+			global::BurgerMonkeys.UI.Resource.Id.contentPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.contentPanel;
+			global::BurgerMonkeys.UI.Resource.Id.coordinator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.coordinator;
+			global::BurgerMonkeys.UI.Resource.Id.CTRL = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.CTRL;
+			global::BurgerMonkeys.UI.Resource.Id.custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.custom;
+			global::BurgerMonkeys.UI.Resource.Id.customPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.customPanel;
+			global::BurgerMonkeys.UI.Resource.Id.decor_content_parent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.decor_content_parent;
+			global::BurgerMonkeys.UI.Resource.Id.default_activity_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.default_activity_button;
+			global::BurgerMonkeys.UI.Resource.Id.design_bottom_sheet = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_bottom_sheet;
+			global::BurgerMonkeys.UI.Resource.Id.design_menu_item_action_area = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_menu_item_action_area;
+			global::BurgerMonkeys.UI.Resource.Id.design_menu_item_action_area_stub = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::BurgerMonkeys.UI.Resource.Id.design_menu_item_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_menu_item_text;
+			global::BurgerMonkeys.UI.Resource.Id.design_navigation_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.design_navigation_view;
+			global::BurgerMonkeys.UI.Resource.Id.disableHome = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.disableHome;
+			global::BurgerMonkeys.UI.Resource.Id.edit_query = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.edit_query;
+			global::BurgerMonkeys.UI.Resource.Id.end = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.end;
+			global::BurgerMonkeys.UI.Resource.Id.end_padder = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.end_padder;
+			global::BurgerMonkeys.UI.Resource.Id.enterAlways = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.enterAlways;
+			global::BurgerMonkeys.UI.Resource.Id.enterAlwaysCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::BurgerMonkeys.UI.Resource.Id.exitUntilCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.exitUntilCollapsed;
+			global::BurgerMonkeys.UI.Resource.Id.expanded_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.expanded_menu;
+			global::BurgerMonkeys.UI.Resource.Id.expand_activities_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.expand_activities_button;
+			global::BurgerMonkeys.UI.Resource.Id.fill = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.fill;
+			global::BurgerMonkeys.UI.Resource.Id.filled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.filled;
+			global::BurgerMonkeys.UI.Resource.Id.fill_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.fill_horizontal;
+			global::BurgerMonkeys.UI.Resource.Id.fill_vertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.fill_vertical;
+			global::BurgerMonkeys.UI.Resource.Id.@fixed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.@fixed;
+			global::BurgerMonkeys.UI.Resource.Id.flyoutcontent_appbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.flyoutcontent_appbar;
+			global::BurgerMonkeys.UI.Resource.Id.flyoutcontent_recycler = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.flyoutcontent_recycler;
+			global::BurgerMonkeys.UI.Resource.Id.forever = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.forever;
+			global::BurgerMonkeys.UI.Resource.Id.FUNCTION = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.FUNCTION;
+			global::BurgerMonkeys.UI.Resource.Id.ghost_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.ghost_view;
+			global::BurgerMonkeys.UI.Resource.Id.group_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.group_divider;
+			global::BurgerMonkeys.UI.Resource.Id.home = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.home;
+			global::BurgerMonkeys.UI.Resource.Id.homeAsUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.homeAsUp;
+			global::BurgerMonkeys.UI.Resource.Id.icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.icon;
+			global::BurgerMonkeys.UI.Resource.Id.icon_group = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.icon_group;
+			global::BurgerMonkeys.UI.Resource.Id.ifRoom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.ifRoom;
+			global::BurgerMonkeys.UI.Resource.Id.image = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.image;
+			global::BurgerMonkeys.UI.Resource.Id.info = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.info;
+			global::BurgerMonkeys.UI.Resource.Id.italic = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.italic;
+			global::BurgerMonkeys.UI.Resource.Id.item_touch_helper_previous_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::BurgerMonkeys.UI.Resource.Id.labeled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.labeled;
+			global::BurgerMonkeys.UI.Resource.Id.largeLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.largeLabel;
+			global::BurgerMonkeys.UI.Resource.Id.left = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.left;
+			global::BurgerMonkeys.UI.Resource.Id.line1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.line1;
+			global::BurgerMonkeys.UI.Resource.Id.line3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.line3;
+			global::BurgerMonkeys.UI.Resource.Id.listMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.listMode;
+			global::BurgerMonkeys.UI.Resource.Id.list_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.list_item;
+			global::BurgerMonkeys.UI.Resource.Id.main_appbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_appbar;
+			global::BurgerMonkeys.UI.Resource.Id.main_tablayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_tablayout;
+			global::BurgerMonkeys.UI.Resource.Id.main_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_toolbar;
+			global::BurgerMonkeys.UI.Resource.Id.main_viewpager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.main_viewpager;
+			global::BurgerMonkeys.UI.Resource.Id.masked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.masked;
+			global::BurgerMonkeys.UI.Resource.Id.media_actions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.media_actions;
+			global::BurgerMonkeys.UI.Resource.Id.message = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.message;
+			global::BurgerMonkeys.UI.Resource.Id.META = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.META;
+			global::BurgerMonkeys.UI.Resource.Id.middle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.middle;
+			global::BurgerMonkeys.UI.Resource.Id.mini = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.mini;
+			global::BurgerMonkeys.UI.Resource.Id.mtrl_child_content_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.mtrl_child_content_container;
+			global::BurgerMonkeys.UI.Resource.Id.mtrl_internal_children_alpha_tag = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::BurgerMonkeys.UI.Resource.Id.multiply = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.multiply;
+			global::BurgerMonkeys.UI.Resource.Id.navigation_header_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.navigation_header_container;
+			global::BurgerMonkeys.UI.Resource.Id.never = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.never;
+			global::BurgerMonkeys.UI.Resource.Id.none = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.none;
+			global::BurgerMonkeys.UI.Resource.Id.normal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.normal;
+			global::BurgerMonkeys.UI.Resource.Id.notification_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.notification_background;
+			global::BurgerMonkeys.UI.Resource.Id.notification_main_column = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.notification_main_column;
+			global::BurgerMonkeys.UI.Resource.Id.notification_main_column_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.notification_main_column_container;
+			global::BurgerMonkeys.UI.Resource.Id.outline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.outline;
+			global::BurgerMonkeys.UI.Resource.Id.parallax = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.parallax;
+			global::BurgerMonkeys.UI.Resource.Id.parentPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.parentPanel;
+			global::BurgerMonkeys.UI.Resource.Id.parent_matrix = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.parent_matrix;
+			global::BurgerMonkeys.UI.Resource.Id.pin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.pin;
+			global::BurgerMonkeys.UI.Resource.Id.progress_circular = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.progress_circular;
+			global::BurgerMonkeys.UI.Resource.Id.progress_horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.progress_horizontal;
+			global::BurgerMonkeys.UI.Resource.Id.radio = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.radio;
+			global::BurgerMonkeys.UI.Resource.Id.right = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.right;
+			global::BurgerMonkeys.UI.Resource.Id.right_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.right_icon;
+			global::BurgerMonkeys.UI.Resource.Id.right_side = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.right_side;
+			global::BurgerMonkeys.UI.Resource.Id.save_image_matrix = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.save_image_matrix;
+			global::BurgerMonkeys.UI.Resource.Id.save_non_transition_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.save_non_transition_alpha;
+			global::BurgerMonkeys.UI.Resource.Id.save_scale_type = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.save_scale_type;
+			global::BurgerMonkeys.UI.Resource.Id.screen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.screen;
+			global::BurgerMonkeys.UI.Resource.Id.scroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scroll;
+			global::BurgerMonkeys.UI.Resource.Id.scrollable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollable;
+			global::BurgerMonkeys.UI.Resource.Id.scrollIndicatorDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollIndicatorDown;
+			global::BurgerMonkeys.UI.Resource.Id.scrollIndicatorUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollIndicatorUp;
+			global::BurgerMonkeys.UI.Resource.Id.scrollView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.scrollView;
+			global::BurgerMonkeys.UI.Resource.Id.search_badge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_badge;
+			global::BurgerMonkeys.UI.Resource.Id.search_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_bar;
+			global::BurgerMonkeys.UI.Resource.Id.search_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_button;
+			global::BurgerMonkeys.UI.Resource.Id.search_close_btn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_close_btn;
+			global::BurgerMonkeys.UI.Resource.Id.search_edit_frame = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_edit_frame;
+			global::BurgerMonkeys.UI.Resource.Id.search_go_btn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_go_btn;
+			global::BurgerMonkeys.UI.Resource.Id.search_mag_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_mag_icon;
+			global::BurgerMonkeys.UI.Resource.Id.search_plate = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_plate;
+			global::BurgerMonkeys.UI.Resource.Id.search_src_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_src_text;
+			global::BurgerMonkeys.UI.Resource.Id.search_voice_btn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.search_voice_btn;
+			global::BurgerMonkeys.UI.Resource.Id.selected = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.selected;
+			global::BurgerMonkeys.UI.Resource.Id.select_dialog_listview = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.select_dialog_listview;
+			global::BurgerMonkeys.UI.Resource.Id.shellcontent_appbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.shellcontent_appbar;
+			global::BurgerMonkeys.UI.Resource.Id.shellcontent_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.shellcontent_toolbar;
+			global::BurgerMonkeys.UI.Resource.Id.SHIFT = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.SHIFT;
+			global::BurgerMonkeys.UI.Resource.Id.shortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.shortcut;
+			global::BurgerMonkeys.UI.Resource.Id.showCustom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.showCustom;
+			global::BurgerMonkeys.UI.Resource.Id.showHome = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.showHome;
+			global::BurgerMonkeys.UI.Resource.Id.showTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.showTitle;
+			global::BurgerMonkeys.UI.Resource.Id.smallLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.smallLabel;
+			global::BurgerMonkeys.UI.Resource.Id.snackbar_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snackbar_action;
+			global::BurgerMonkeys.UI.Resource.Id.snackbar_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snackbar_text;
+			global::BurgerMonkeys.UI.Resource.Id.snap = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snap;
+			global::BurgerMonkeys.UI.Resource.Id.snapMargins = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.snapMargins;
+			global::BurgerMonkeys.UI.Resource.Id.spacer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.spacer;
+			global::BurgerMonkeys.UI.Resource.Id.split_action_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.split_action_bar;
+			global::BurgerMonkeys.UI.Resource.Id.src_atop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.src_atop;
+			global::BurgerMonkeys.UI.Resource.Id.src_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.src_in;
+			global::BurgerMonkeys.UI.Resource.Id.src_over = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.src_over;
+			global::BurgerMonkeys.UI.Resource.Id.start = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.start;
+			global::BurgerMonkeys.UI.Resource.Id.status_bar_latest_event_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.status_bar_latest_event_content;
+			global::BurgerMonkeys.UI.Resource.Id.stretch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.stretch;
+			global::BurgerMonkeys.UI.Resource.Id.submenuarrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.submenuarrow;
+			global::BurgerMonkeys.UI.Resource.Id.submit_area = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.submit_area;
+			global::BurgerMonkeys.UI.Resource.Id.SYM = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.SYM;
+			global::BurgerMonkeys.UI.Resource.Id.tabMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tabMode;
+			global::BurgerMonkeys.UI.Resource.Id.tag_transition_group = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tag_transition_group;
+			global::BurgerMonkeys.UI.Resource.Id.tag_unhandled_key_event_manager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::BurgerMonkeys.UI.Resource.Id.tag_unhandled_key_listeners = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::BurgerMonkeys.UI.Resource.Id.text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.text;
+			global::BurgerMonkeys.UI.Resource.Id.text2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.text2;
+			global::BurgerMonkeys.UI.Resource.Id.textinput_counter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textinput_counter;
+			global::BurgerMonkeys.UI.Resource.Id.textinput_error = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textinput_error;
+			global::BurgerMonkeys.UI.Resource.Id.textinput_helper_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textinput_helper_text;
+			global::BurgerMonkeys.UI.Resource.Id.textSpacerNoButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textSpacerNoButtons;
+			global::BurgerMonkeys.UI.Resource.Id.textSpacerNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textSpacerNoTitle;
+			global::BurgerMonkeys.UI.Resource.Id.textStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.textStart;
+			global::BurgerMonkeys.UI.Resource.Id.text_input_password_toggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.text_input_password_toggle;
+			global::BurgerMonkeys.UI.Resource.Id.time = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.time;
+			global::BurgerMonkeys.UI.Resource.Id.title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.title;
+			global::BurgerMonkeys.UI.Resource.Id.titleDividerNoCustom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.titleDividerNoCustom;
+			global::BurgerMonkeys.UI.Resource.Id.title_template = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.title_template;
+			global::BurgerMonkeys.UI.Resource.Id.top = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.top;
+			global::BurgerMonkeys.UI.Resource.Id.topPanel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.topPanel;
+			global::BurgerMonkeys.UI.Resource.Id.touch_outside = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.touch_outside;
+			global::BurgerMonkeys.UI.Resource.Id.transition_current_scene = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_current_scene;
+			global::BurgerMonkeys.UI.Resource.Id.transition_layout_save = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_layout_save;
+			global::BurgerMonkeys.UI.Resource.Id.transition_position = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_position;
+			global::BurgerMonkeys.UI.Resource.Id.transition_scene_layoutid_cache = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::BurgerMonkeys.UI.Resource.Id.transition_transform = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.transition_transform;
+			global::BurgerMonkeys.UI.Resource.Id.uniform = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.uniform;
+			global::BurgerMonkeys.UI.Resource.Id.unlabeled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.unlabeled;
+			global::BurgerMonkeys.UI.Resource.Id.up = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.up;
+			global::BurgerMonkeys.UI.Resource.Id.useLogo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.useLogo;
+			global::BurgerMonkeys.UI.Resource.Id.view_offset_helper = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.view_offset_helper;
+			global::BurgerMonkeys.UI.Resource.Id.visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.visible;
+			global::BurgerMonkeys.UI.Resource.Id.withText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.withText;
+			global::BurgerMonkeys.UI.Resource.Id.wrap_content = global::BurgerMonkeys.UI.Sample.Droid.Resource.Id.wrap_content;
+			global::BurgerMonkeys.UI.Resource.Integer.abc_config_activityDefaultDur = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::BurgerMonkeys.UI.Resource.Integer.abc_config_activityShortDur = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::BurgerMonkeys.UI.Resource.Integer.app_bar_elevation_anim_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::BurgerMonkeys.UI.Resource.Integer.bottom_sheet_slide_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::BurgerMonkeys.UI.Resource.Integer.cancel_button_image_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::BurgerMonkeys.UI.Resource.Integer.config_tooltipAnimTime = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::BurgerMonkeys.UI.Resource.Integer.design_snackbar_text_max_lines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::BurgerMonkeys.UI.Resource.Integer.design_tab_indicator_anim_duration_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::BurgerMonkeys.UI.Resource.Integer.hide_password_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.hide_password_duration;
+			global::BurgerMonkeys.UI.Resource.Integer.mtrl_btn_anim_delay_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::BurgerMonkeys.UI.Resource.Integer.mtrl_btn_anim_duration_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::BurgerMonkeys.UI.Resource.Integer.mtrl_chip_anim_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::BurgerMonkeys.UI.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::BurgerMonkeys.UI.Resource.Integer.show_password_duration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.show_password_duration;
+			global::BurgerMonkeys.UI.Resource.Integer.status_bar_notification_info_maxnum = global::BurgerMonkeys.UI.Sample.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::BurgerMonkeys.UI.Resource.Interpolator.mtrl_fast_out_linear_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::BurgerMonkeys.UI.Resource.Interpolator.mtrl_fast_out_slow_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::BurgerMonkeys.UI.Resource.Interpolator.mtrl_linear = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_linear;
+			global::BurgerMonkeys.UI.Resource.Interpolator.mtrl_linear_out_slow_in = global::BurgerMonkeys.UI.Sample.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_action_bar_title_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_action_bar_up_container = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_action_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_action_menu_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_menu_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_action_mode_bar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_mode_bar;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_action_mode_close_item_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_activity_chooser_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_activity_chooser_view_list_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_alert_dialog_button_bar_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_alert_dialog_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_alert_dialog_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_cascading_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_dialog_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_dialog_title_material;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_expanded_menu_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_list_menu_item_checkbox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_list_menu_item_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_list_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_list_menu_item_radio = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_popup_menu_header_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_popup_menu_item_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_screen_content_include = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_content_include;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_screen_simple = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_simple;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_screen_simple_overlay_action_mode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_screen_toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_screen_toolbar;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_search_dropdown_item_icons_2line = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_search_view = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_search_view;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_select_dialog_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_select_dialog_material;
+			global::BurgerMonkeys.UI.Resource.Layout.abc_tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.abc_tooltip;
+			global::BurgerMonkeys.UI.Resource.Layout.BottomTabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.BottomTabLayout;
+			global::BurgerMonkeys.UI.Resource.Layout.browser_actions_context_menu_page = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::BurgerMonkeys.UI.Resource.Layout.browser_actions_context_menu_row = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::BurgerMonkeys.UI.Resource.Layout.design_bottom_navigation_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::BurgerMonkeys.UI.Resource.Layout.design_bottom_sheet_dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::BurgerMonkeys.UI.Resource.Layout.design_layout_snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_snackbar;
+			global::BurgerMonkeys.UI.Resource.Layout.design_layout_snackbar_include = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::BurgerMonkeys.UI.Resource.Layout.design_layout_tab_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_tab_icon;
+			global::BurgerMonkeys.UI.Resource.Layout.design_layout_tab_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_layout_tab_text;
+			global::BurgerMonkeys.UI.Resource.Layout.design_menu_item_action_area = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_menu_item_action_area;
+			global::BurgerMonkeys.UI.Resource.Layout.design_navigation_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item;
+			global::BurgerMonkeys.UI.Resource.Layout.design_navigation_item_header = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item_header;
+			global::BurgerMonkeys.UI.Resource.Layout.design_navigation_item_separator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item_separator;
+			global::BurgerMonkeys.UI.Resource.Layout.design_navigation_item_subheader = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::BurgerMonkeys.UI.Resource.Layout.design_navigation_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_menu;
+			global::BurgerMonkeys.UI.Resource.Layout.design_navigation_menu_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_navigation_menu_item;
+			global::BurgerMonkeys.UI.Resource.Layout.design_text_input_password_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.design_text_input_password_icon;
+			global::BurgerMonkeys.UI.Resource.Layout.FlyoutContent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.FlyoutContent;
+			global::BurgerMonkeys.UI.Resource.Layout.mtrl_layout_snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::BurgerMonkeys.UI.Resource.Layout.mtrl_layout_snackbar_include = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_action;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_action_tombstone = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_action_tombstone;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_media_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_media_action;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_media_cancel_action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_media_cancel_action;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_big_media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_big_media_custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_big_media_narrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_big_media_narrow_custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_custom_big = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_custom_big;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_icon_group = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_icon_group;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_lines_media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_lines_media;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_media;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_media_custom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_media_custom;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_part_chronometer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::BurgerMonkeys.UI.Resource.Layout.notification_template_part_time = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.notification_template_part_time;
+			global::BurgerMonkeys.UI.Resource.Layout.RootLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.RootLayout;
+			global::BurgerMonkeys.UI.Resource.Layout.select_dialog_item_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.select_dialog_item_material;
+			global::BurgerMonkeys.UI.Resource.Layout.select_dialog_multichoice_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::BurgerMonkeys.UI.Resource.Layout.select_dialog_singlechoice_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::BurgerMonkeys.UI.Resource.Layout.ShellContent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.ShellContent;
+			global::BurgerMonkeys.UI.Resource.Layout.support_simple_spinner_dropdown_item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::BurgerMonkeys.UI.Resource.String.abc_action_bar_home_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_bar_home_description;
+			global::BurgerMonkeys.UI.Resource.String.abc_action_bar_up_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_bar_up_description;
+			global::BurgerMonkeys.UI.Resource.String.abc_action_menu_overflow_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::BurgerMonkeys.UI.Resource.String.abc_action_mode_done = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_action_mode_done;
+			global::BurgerMonkeys.UI.Resource.String.abc_activitychooserview_choose_application = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::BurgerMonkeys.UI.Resource.String.abc_activity_chooser_view_see_all = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::BurgerMonkeys.UI.Resource.String.abc_capital_off = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_capital_off;
+			global::BurgerMonkeys.UI.Resource.String.abc_capital_on = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_capital_on;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_body_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_body_1_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_body_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_body_2_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_button_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_button_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_caption_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_caption_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_display_1_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_1_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_display_2_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_2_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_display_3_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_3_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_display_4_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_display_4_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_headline_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_headline_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_menu_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_menu_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_subhead_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_subhead_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_font_family_title_material = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_font_family_title_material;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_alt_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_ctrl_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_delete_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_enter_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_function_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_meta_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_shift_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_space_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_menu_sym_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_prepend_shortcut_label = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::BurgerMonkeys.UI.Resource.String.abc_searchview_description_clear = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_clear;
+			global::BurgerMonkeys.UI.Resource.String.abc_searchview_description_query = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_query;
+			global::BurgerMonkeys.UI.Resource.String.abc_searchview_description_search = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_search;
+			global::BurgerMonkeys.UI.Resource.String.abc_searchview_description_submit = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_submit;
+			global::BurgerMonkeys.UI.Resource.String.abc_searchview_description_voice = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_searchview_description_voice;
+			global::BurgerMonkeys.UI.Resource.String.abc_search_hint = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_search_hint;
+			global::BurgerMonkeys.UI.Resource.String.abc_shareactionprovider_share_with = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::BurgerMonkeys.UI.Resource.String.abc_shareactionprovider_share_with_application = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::BurgerMonkeys.UI.Resource.String.abc_toolbar_collapse_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::BurgerMonkeys.UI.Resource.String.appbar_scrolling_view_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::BurgerMonkeys.UI.Resource.String.bottom_sheet_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.bottom_sheet_behavior;
+			global::BurgerMonkeys.UI.Resource.String.character_counter_content_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.character_counter_content_description;
+			global::BurgerMonkeys.UI.Resource.String.character_counter_pattern = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.character_counter_pattern;
+			global::BurgerMonkeys.UI.Resource.String.fab_transformation_scrim_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::BurgerMonkeys.UI.Resource.String.fab_transformation_sheet_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::BurgerMonkeys.UI.Resource.String.hide_bottom_view_on_scroll_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::BurgerMonkeys.UI.Resource.String.mtrl_chip_close_icon_content_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::BurgerMonkeys.UI.Resource.String.password_toggle_content_description = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.password_toggle_content_description;
+			global::BurgerMonkeys.UI.Resource.String.path_password_eye = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_eye;
+			global::BurgerMonkeys.UI.Resource.String.path_password_eye_mask_strike_through = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::BurgerMonkeys.UI.Resource.String.path_password_eye_mask_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_eye_mask_visible;
+			global::BurgerMonkeys.UI.Resource.String.path_password_strike_through = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.path_password_strike_through;
+			global::BurgerMonkeys.UI.Resource.String.search_menu_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.search_menu_title;
+			global::BurgerMonkeys.UI.Resource.String.status_bar_notification_info_overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::BurgerMonkeys.UI.Resource.Style.AlertDialog_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.AlertDialog_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Animation_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Animation_AppCompat_DropDownUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::BurgerMonkeys.UI.Resource.Style.Animation_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::BurgerMonkeys.UI.Resource.Style.Animation_Design_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_AlertDialog_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_AlertDialog_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Animation_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Animation_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::BurgerMonkeys.UI.Resource.Style.Base_CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_CardView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_DialogWindowTitle_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V21_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V21_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V22_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V22_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V23_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V23_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V26_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V26_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V28_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V28_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::BurgerMonkeys.UI.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActionMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Button_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_EditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ImageButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ListView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_RatingBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_SeekBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_Design_TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_MaterialComponents_Chip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::BurgerMonkeys.UI.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::BurgerMonkeys.UI.Resource.Style.CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView;
+			global::BurgerMonkeys.UI.Resource.Style.CardView_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView_Dark;
+			global::BurgerMonkeys.UI.Resource.Style.CardView_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView_Light;
+			global::BurgerMonkeys.UI.Resource.Style.collectionViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.collectionViewStyle;
+			global::BurgerMonkeys.UI.Resource.Style.NestedScrollBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.NestedScrollBarStyle;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_ThemeOverlay_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_V21_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_V21_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_V25_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_V25_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Platform_Widget_AppCompat_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::BurgerMonkeys.UI.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::BurgerMonkeys.UI.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::BurgerMonkeys.UI.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Body1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Body2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Caption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Display1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Display2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Display3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Display4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Headline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Medium = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Subhead = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Tooltip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Info = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Time = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_Counter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_Counter_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_Error = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_HelperText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_Hint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_Snackbar_Message = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Design_Tab = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Caption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Chip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Overline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_MaterialComponents_Tab = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::BurgerMonkeys.UI.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::BurgerMonkeys.UI.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_AppCompat_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_Design = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_Design_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_Design_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_Design_Light_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_Design_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_CompactMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_NoActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActionMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ButtonBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Button_Borderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Button_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Button_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_EditText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ImageButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ListMenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ListView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ListView_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ListView_Menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_PopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_PopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ProgressBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_RatingBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_RatingBar_Small = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_SeekBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Compat_NotificationActionContainer = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Compat_NotificationActionText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_AppBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_BottomNavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_BottomSheet_Modal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_CollapsingToolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_FloatingActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_NavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_Snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Design_TextInputLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_ChipGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Chip_Action = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_NavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_MaterialComponents_Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::BurgerMonkeys.UI.Resource.Style.Widget_Support_CoordinatorLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBarLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_background;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_backgroundSplit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_backgroundStacked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_contentInsetEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_contentInsetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_contentInsetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_contentInsetStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_customNavigationLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_displayOptions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_divider;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_elevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_height;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_hideOnContentScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_homeAsUpIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_homeLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_icon;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_itemPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_logo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_logo;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_navigationMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_progressBarPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_progressBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_subtitleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_title;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionBar_titleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMenuItemView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMenuItemView;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMenuItemView_android_minWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMenuView;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_background;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode_backgroundSplit = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode_closeItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_height;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode_subtitleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActionMode_titleTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActivityChooserView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActivityChooserView;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.ActivityChooserView_initialActivityCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_android_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_buttonIconDimen = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_listItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_listLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_showTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableTransition = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::BurgerMonkeys.UI.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayoutStates = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayoutStates_state_liftable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayoutStates_state_lifted = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_android_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_expanded = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppBarLayout_liftOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatImageView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatImageView_android_src = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatImageView_srcCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatImageView_tint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatImageView_tintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatSeekBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatSeekBar_android_thumb = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatSeekBar_tickMark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_lineHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTextView_textAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_checkboxStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorAccent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorControlActivated = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorControlNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorError = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorPrimary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_controlBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dividerVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_editTextBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_editTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_editTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_panelBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_searchViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_seekBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_spinnerStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_switchStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_toolbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowActionBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::BurgerMonkeys.UI.Resource.Styleable.AppCompatTheme_windowNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar_fabCradleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomAppBar_hideOnScroll = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_itemTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomNavigationView_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomSheetBehavior_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::BurgerMonkeys.UI.Resource.Styleable.ButtonBarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ButtonBarLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ButtonBarLayout_allowStacking = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_android_minHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_android_minWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_cardBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_cardCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_cardElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardElevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_cardMaxElevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_cardPreventCornerOverlap = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_cardUseCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_contentPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_contentPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_contentPaddingLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_contentPaddingRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::BurgerMonkeys.UI.Resource.Styleable.CardView_contentPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup_checkedChip = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup_chipSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup_chipSpacingVertical = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup_singleLine = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::BurgerMonkeys.UI.Resource.Styleable.ChipGroup_singleSelection = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_android_checkable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_checkable;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_android_ellipsize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_android_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_text;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_checkedIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_checkedIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_checkedIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipCornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipMinHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_chipStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIconEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_closeIconVisible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_hideMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_iconEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_iconStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_rippleColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_showMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_textEndPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.Chip_textStartPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::BurgerMonkeys.UI.Resource.Styleable.ColorStateListItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.ColorStateListItem_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::BurgerMonkeys.UI.Resource.Styleable.ColorStateListItem_android_alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::BurgerMonkeys.UI.Resource.Styleable.ColorStateListItem_android_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::BurgerMonkeys.UI.Resource.Styleable.CompoundButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton;
+			global::BurgerMonkeys.UI.Resource.Styleable.CompoundButton_android_button = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::BurgerMonkeys.UI.Resource.Styleable.CompoundButton_buttonTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.CompoundButton_buttonTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_keylines = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::BurgerMonkeys.UI.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.DesignTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DesignTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.DesignTheme_bottomSheetStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_barLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_drawableSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_spinBars = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::BurgerMonkeys.UI.Resource.Styleable.DrawerArrowToggle_thickness = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_borderWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_fabCustomSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_fabSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_maxImageSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_showMotionSpec = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::BurgerMonkeys.UI.Resource.Styleable.FloatingActionButton_useCompatPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.FlowLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FlowLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.FlowLayout_itemSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::BurgerMonkeys.UI.Resource.Styleable.FlowLayout_lineSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_android_font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_android_fontStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_android_fontWeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_fontStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_fontWeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamilyFont_ttcIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily_fontProviderAuthority = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily_fontProviderCerts = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily_fontProviderPackage = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::BurgerMonkeys.UI.Resource.Styleable.FontFamily_fontProviderQuery = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::BurgerMonkeys.UI.Resource.Styleable.ForegroundLinearLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::BurgerMonkeys.UI.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColorItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColorItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColorItem_android_color = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColorItem_android_offset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_centerColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_centerX = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_centerY = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_endColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_endX = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_endY = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_gradientRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_startColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_startX = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_startY = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_tileMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.GradientColor_android_type = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.GradientColor_android_type;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_android_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_android_orientation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_divider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::BurgerMonkeys.UI.Resource.Styleable.LinearLayoutCompat_showDividers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::BurgerMonkeys.UI.Resource.Styleable.ListPopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ListPopupWindow;
+			global::BurgerMonkeys.UI.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::BurgerMonkeys.UI.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_android_insetBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_android_insetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_android_insetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_android_insetTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_cornerRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_icon;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_iconGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_iconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_iconSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_iconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_iconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_rippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_strokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialButton_strokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialCardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialCardView;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialCardView_strokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialCardView_strokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::BurgerMonkeys.UI.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup_android_checkableBehavior = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup_android_enabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup_android_menuCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup_android_orderInCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuGroup_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_actionLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_actionProviderClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_actionViewClass = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_alphabeticModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_checkable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_checked = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_enabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_id;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_menuCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_numericShortcut = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_onClick = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_orderInCategory = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_title;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_titleCondensed = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_contentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_iconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_iconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_numericModifiers = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_showAsAction = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuItem_tooltipText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_headerBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_horizontalDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_itemTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_verticalDivider = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_android_windowAnimationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_preserveIconSpacing = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::BurgerMonkeys.UI.Resource.Styleable.MenuView_subMenuArrow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_android_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_android_background;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_elevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_headerLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_itemBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_itemHorizontalPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_itemIconPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_itemIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_itemTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_itemTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.NavigationView_menu = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.NavigationView_menu;
+			global::BurgerMonkeys.UI.Resource.Styleable.PopupWindow = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow;
+			global::BurgerMonkeys.UI.Resource.Styleable.PopupWindowBackgroundState = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::BurgerMonkeys.UI.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::BurgerMonkeys.UI.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.PopupWindow_android_popupBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.PopupWindow_overlapAnchor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecycleListView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecycleListView;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_android_descendantFocusability = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_android_orientation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_fastScrollEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_layoutManager = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_reverseLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_spanCount = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::BurgerMonkeys.UI.Resource.Styleable.RecyclerView_stackFromEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.ScrimInsetsFrameLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::BurgerMonkeys.UI.Resource.Styleable.ScrollingViewBehavior_Layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_android_focusable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_android_imeOptions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_android_inputType = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_closeIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_commitIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_defaultQueryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_goIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_goIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_iconifiedByDefault = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_queryBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_queryHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_queryHint;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_searchHintIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_searchIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_submitBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_suggestionRowLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.SearchView_voiceIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.Snackbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Snackbar;
+			global::BurgerMonkeys.UI.Resource.Styleable.SnackbarLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.SnackbarLayout_android_maxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.SnackbarLayout_elevation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::BurgerMonkeys.UI.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.Snackbar_snackbarButtonStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.Snackbar_snackbarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.Spinner = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner;
+			global::BurgerMonkeys.UI.Resource.Styleable.Spinner_android_dropDownWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.Spinner_android_entries = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_entries;
+			global::BurgerMonkeys.UI.Resource.Styleable.Spinner_android_popupBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.Spinner_android_prompt = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::BurgerMonkeys.UI.Resource.Styleable.Spinner_popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawableItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawableItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawableItem_android_drawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable_android_constantSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable_android_dither = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable_android_variablePadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.StateListDrawable_android_visible = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_android_textOff = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_android_textOn = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_android_thumb = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_showText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_splitTrack = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_switchMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_switchPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_switchTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_thumbTextPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_thumbTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_thumbTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_track = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_track;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_trackTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.SwitchCompat_trackTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabItem = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabItem_android_icon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem_android_icon;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabItem_android_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem_android_layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabItem_android_text = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabItem_android_text;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabBackground = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabContentStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIconTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIconTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIndicator = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIndicatorColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIndicatorGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabIndicatorHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabInlineLabel = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabMaxWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabMinWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabPadding = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabPaddingBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabPaddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabPaddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabRippleColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabSelectedTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TabLayout_tabUnboundedRipple = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_shadowColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_shadowDx = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_shadowDy = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_shadowRadius = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_textColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_textColorHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_textColorLink = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_textSize = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_textStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_android_typeface = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_fontFamily = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextAppearance_textAllCaps = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_android_hint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_android_textColorHint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxStrokeColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_counterEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_counterMaxLength = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_counterTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_errorEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_errorTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_helperText = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_helperTextEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_hintEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_hintTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_passwordToggleTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.ThemeEnforcement = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement;
+			global::BurgerMonkeys.UI.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_android_gravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_android_minHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_buttonGravity = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_collapseContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_collapseIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_contentInsetEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_contentInsetLeft = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_contentInsetRight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_contentInsetStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_logo = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_logo;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_logoDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_maxButtonHeight = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_navigationContentDescription = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_navigationIcon = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_popupTheme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_subtitle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_subtitleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_subtitleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_title = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_title;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleMargin = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleMarginBottom = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleMarginEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleMargins = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleMarginStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleMarginTop = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleTextAppearance = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::BurgerMonkeys.UI.Resource.Styleable.Toolbar_titleTextColor = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::BurgerMonkeys.UI.Resource.Styleable.View = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewBackgroundHelper = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewBackgroundHelper_android_background = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewStubCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewStubCompat_android_id = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewStubCompat_android_inflatedId = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::BurgerMonkeys.UI.Resource.Styleable.ViewStubCompat_android_layout = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::BurgerMonkeys.UI.Resource.Styleable.View_android_focusable = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_android_focusable;
+			global::BurgerMonkeys.UI.Resource.Styleable.View_android_theme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_android_theme;
+			global::BurgerMonkeys.UI.Resource.Styleable.View_paddingEnd = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_paddingEnd;
+			global::BurgerMonkeys.UI.Resource.Styleable.View_paddingStart = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_paddingStart;
+			global::BurgerMonkeys.UI.Resource.Styleable.View_theme = global::BurgerMonkeys.UI.Sample.Droid.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::BurgerMonkeys.UI.Sample.Droid.Resource.Attribute.font;
@@ -4292,6 +4291,7 @@ namespace BurgerMonkeys.UI.Sample.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.NestedScrollBarStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_AppCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_AppCompat_Light;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::BurgerMonkeys.UI.Sample.Droid.Resource.Style.Platform_MaterialComponents;
@@ -9468,56 +9468,50 @@ namespace BurgerMonkeys.UI.Sample.Droid
 			// aapt resource value: 0x7F0D0026
 			public const int abc_toolbar_collapse_description = 2131558438;
 			
-			// aapt resource value: 0x7F0D0028
-			public const int appbar_scrolling_view_behavior = 2131558440;
-			
 			// aapt resource value: 0x7F0D0027
-			public const int app_name = 2131558439;
+			public const int appbar_scrolling_view_behavior = 2131558439;
+			
+			// aapt resource value: 0x7F0D0028
+			public const int bottom_sheet_behavior = 2131558440;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int bottom_sheet_behavior = 2131558441;
+			public const int character_counter_content_description = 2131558441;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int character_counter_content_description = 2131558442;
+			public const int character_counter_pattern = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int character_counter_pattern = 2131558443;
+			public const int fab_transformation_scrim_behavior = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int fab_transformation_scrim_behavior = 2131558444;
+			public const int fab_transformation_sheet_behavior = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int fab_transformation_sheet_behavior = 2131558445;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int hello = 2131558446;
+			public const int mtrl_chip_close_icon_content_description = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int hide_bottom_view_on_scroll_behavior = 2131558447;
+			public const int password_toggle_content_description = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int mtrl_chip_close_icon_content_description = 2131558448;
+			public const int path_password_eye = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int password_toggle_content_description = 2131558449;
+			public const int path_password_eye_mask_strike_through = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int path_password_eye = 2131558450;
+			public const int path_password_eye_mask_visible = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int path_password_eye_mask_strike_through = 2131558451;
+			public const int path_password_strike_through = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int path_password_eye_mask_visible = 2131558452;
+			public const int search_menu_title = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int path_password_strike_through = 2131558453;
-			
-			// aapt resource value: 0x7F0D0036
-			public const int search_menu_title = 2131558454;
-			
-			// aapt resource value: 0x7F0D0037
-			public const int status_bar_notification_info_overflow = 2131558455;
+			public const int status_bar_notification_info_overflow = 2131558453;
 			
 			static String()
 			{
@@ -10126,8 +10120,8 @@ namespace BurgerMonkeys.UI.Sample.Droid
 			// aapt resource value: 0x7F0E00C5
 			public const int CardView_Light = 2131624133;
 			
-			// aapt resource value: 0x7F0E01F7
-			public const int collectionViewStyle = 2131624439;
+			// aapt resource value: 0x7F0E01F8
+			public const int collectionViewStyle = 2131624440;
 			
 			// aapt resource value: 0x7F0E00C6
 			public const int MainTheme = 2131624134;
@@ -10136,913 +10130,916 @@ namespace BurgerMonkeys.UI.Sample.Droid
 			public const int MainTheme_Base = 2131624135;
 			
 			// aapt resource value: 0x7F0E00C8
-			public const int Platform_AppCompat = 2131624136;
+			public const int NestedScrollBarStyle = 2131624136;
 			
 			// aapt resource value: 0x7F0E00C9
-			public const int Platform_AppCompat_Light = 2131624137;
+			public const int Platform_AppCompat = 2131624137;
 			
 			// aapt resource value: 0x7F0E00CA
-			public const int Platform_MaterialComponents = 2131624138;
+			public const int Platform_AppCompat_Light = 2131624138;
 			
 			// aapt resource value: 0x7F0E00CB
-			public const int Platform_MaterialComponents_Dialog = 2131624139;
+			public const int Platform_MaterialComponents = 2131624139;
 			
 			// aapt resource value: 0x7F0E00CC
-			public const int Platform_MaterialComponents_Light = 2131624140;
+			public const int Platform_MaterialComponents_Dialog = 2131624140;
 			
 			// aapt resource value: 0x7F0E00CD
-			public const int Platform_MaterialComponents_Light_Dialog = 2131624141;
+			public const int Platform_MaterialComponents_Light = 2131624141;
 			
 			// aapt resource value: 0x7F0E00CE
-			public const int Platform_ThemeOverlay_AppCompat = 2131624142;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131624142;
 			
 			// aapt resource value: 0x7F0E00CF
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624143;
+			public const int Platform_ThemeOverlay_AppCompat = 2131624143;
 			
 			// aapt resource value: 0x7F0E00D0
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624144;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624144;
 			
 			// aapt resource value: 0x7F0E00D1
-			public const int Platform_V21_AppCompat = 2131624145;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624145;
 			
 			// aapt resource value: 0x7F0E00D2
-			public const int Platform_V21_AppCompat_Light = 2131624146;
+			public const int Platform_V21_AppCompat = 2131624146;
 			
 			// aapt resource value: 0x7F0E00D3
-			public const int Platform_V25_AppCompat = 2131624147;
+			public const int Platform_V21_AppCompat_Light = 2131624147;
 			
 			// aapt resource value: 0x7F0E00D4
-			public const int Platform_V25_AppCompat_Light = 2131624148;
+			public const int Platform_V25_AppCompat = 2131624148;
 			
 			// aapt resource value: 0x7F0E00D5
-			public const int Platform_Widget_AppCompat_Spinner = 2131624149;
+			public const int Platform_V25_AppCompat_Light = 2131624149;
 			
 			// aapt resource value: 0x7F0E00D6
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624150;
+			public const int Platform_Widget_AppCompat_Spinner = 2131624150;
 			
 			// aapt resource value: 0x7F0E00D7
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624151;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624151;
 			
 			// aapt resource value: 0x7F0E00D8
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624152;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624152;
 			
 			// aapt resource value: 0x7F0E00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624153;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624153;
 			
 			// aapt resource value: 0x7F0E00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624154;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624154;
 			
 			// aapt resource value: 0x7F0E00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624155;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624155;
 			
 			// aapt resource value: 0x7F0E00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624156;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624156;
 			
 			// aapt resource value: 0x7F0E00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624157;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624157;
 			
 			// aapt resource value: 0x7F0E00DE
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624158;
-			
-			// aapt resource value: 0x7F0E00E4
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624164;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624158;
 			
 			// aapt resource value: 0x7F0E00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624159;
-			
-			// aapt resource value: 0x7F0E00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624160;
-			
-			// aapt resource value: 0x7F0E00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624161;
-			
-			// aapt resource value: 0x7F0E00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624162;
-			
-			// aapt resource value: 0x7F0E00E3
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624163;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624159;
 			
 			// aapt resource value: 0x7F0E00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624165;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624165;
+			
+			// aapt resource value: 0x7F0E00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624160;
+			
+			// aapt resource value: 0x7F0E00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624161;
+			
+			// aapt resource value: 0x7F0E00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624162;
+			
+			// aapt resource value: 0x7F0E00E3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624163;
+			
+			// aapt resource value: 0x7F0E00E4
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624164;
 			
 			// aapt resource value: 0x7F0E00E6
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624166;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624166;
 			
 			// aapt resource value: 0x7F0E00E7
-			public const int TextAppearance_AppCompat = 2131624167;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624167;
 			
 			// aapt resource value: 0x7F0E00E8
-			public const int TextAppearance_AppCompat_Body1 = 2131624168;
+			public const int TextAppearance_AppCompat = 2131624168;
 			
 			// aapt resource value: 0x7F0E00E9
-			public const int TextAppearance_AppCompat_Body2 = 2131624169;
+			public const int TextAppearance_AppCompat_Body1 = 2131624169;
 			
 			// aapt resource value: 0x7F0E00EA
-			public const int TextAppearance_AppCompat_Button = 2131624170;
+			public const int TextAppearance_AppCompat_Body2 = 2131624170;
 			
 			// aapt resource value: 0x7F0E00EB
-			public const int TextAppearance_AppCompat_Caption = 2131624171;
+			public const int TextAppearance_AppCompat_Button = 2131624171;
 			
 			// aapt resource value: 0x7F0E00EC
-			public const int TextAppearance_AppCompat_Display1 = 2131624172;
+			public const int TextAppearance_AppCompat_Caption = 2131624172;
 			
 			// aapt resource value: 0x7F0E00ED
-			public const int TextAppearance_AppCompat_Display2 = 2131624173;
+			public const int TextAppearance_AppCompat_Display1 = 2131624173;
 			
 			// aapt resource value: 0x7F0E00EE
-			public const int TextAppearance_AppCompat_Display3 = 2131624174;
+			public const int TextAppearance_AppCompat_Display2 = 2131624174;
 			
 			// aapt resource value: 0x7F0E00EF
-			public const int TextAppearance_AppCompat_Display4 = 2131624175;
+			public const int TextAppearance_AppCompat_Display3 = 2131624175;
 			
 			// aapt resource value: 0x7F0E00F0
-			public const int TextAppearance_AppCompat_Headline = 2131624176;
+			public const int TextAppearance_AppCompat_Display4 = 2131624176;
 			
 			// aapt resource value: 0x7F0E00F1
-			public const int TextAppearance_AppCompat_Inverse = 2131624177;
+			public const int TextAppearance_AppCompat_Headline = 2131624177;
 			
 			// aapt resource value: 0x7F0E00F2
-			public const int TextAppearance_AppCompat_Large = 2131624178;
+			public const int TextAppearance_AppCompat_Inverse = 2131624178;
 			
 			// aapt resource value: 0x7F0E00F3
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131624179;
+			public const int TextAppearance_AppCompat_Large = 2131624179;
 			
 			// aapt resource value: 0x7F0E00F4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624180;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131624180;
 			
 			// aapt resource value: 0x7F0E00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624181;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624181;
 			
 			// aapt resource value: 0x7F0E00F6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624182;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624182;
 			
 			// aapt resource value: 0x7F0E00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624183;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624183;
 			
 			// aapt resource value: 0x7F0E00F8
-			public const int TextAppearance_AppCompat_Medium = 2131624184;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624184;
 			
 			// aapt resource value: 0x7F0E00F9
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624185;
+			public const int TextAppearance_AppCompat_Medium = 2131624185;
 			
 			// aapt resource value: 0x7F0E00FA
-			public const int TextAppearance_AppCompat_Menu = 2131624186;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624186;
 			
 			// aapt resource value: 0x7F0E00FB
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624187;
+			public const int TextAppearance_AppCompat_Menu = 2131624187;
 			
 			// aapt resource value: 0x7F0E00FC
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624188;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624188;
 			
 			// aapt resource value: 0x7F0E00FD
-			public const int TextAppearance_AppCompat_Small = 2131624189;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624189;
 			
 			// aapt resource value: 0x7F0E00FE
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131624190;
+			public const int TextAppearance_AppCompat_Small = 2131624190;
 			
 			// aapt resource value: 0x7F0E00FF
-			public const int TextAppearance_AppCompat_Subhead = 2131624191;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131624191;
 			
 			// aapt resource value: 0x7F0E0100
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624192;
+			public const int TextAppearance_AppCompat_Subhead = 2131624192;
 			
 			// aapt resource value: 0x7F0E0101
-			public const int TextAppearance_AppCompat_Title = 2131624193;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624193;
 			
 			// aapt resource value: 0x7F0E0102
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131624194;
+			public const int TextAppearance_AppCompat_Title = 2131624194;
 			
 			// aapt resource value: 0x7F0E0103
-			public const int TextAppearance_AppCompat_Tooltip = 2131624195;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131624195;
 			
 			// aapt resource value: 0x7F0E0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624196;
+			public const int TextAppearance_AppCompat_Tooltip = 2131624196;
 			
 			// aapt resource value: 0x7F0E0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624197;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624197;
 			
 			// aapt resource value: 0x7F0E0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624198;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624198;
 			
 			// aapt resource value: 0x7F0E0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624199;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624199;
 			
 			// aapt resource value: 0x7F0E0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624200;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624200;
 			
 			// aapt resource value: 0x7F0E0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624201;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624201;
 			
 			// aapt resource value: 0x7F0E010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624202;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624202;
 			
 			// aapt resource value: 0x7F0E010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624203;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624203;
 			
 			// aapt resource value: 0x7F0E010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624204;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624204;
 			
 			// aapt resource value: 0x7F0E010D
-			public const int TextAppearance_AppCompat_Widget_Button = 2131624205;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624205;
 			
 			// aapt resource value: 0x7F0E010E
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624206;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131624206;
 			
 			// aapt resource value: 0x7F0E010F
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624207;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624207;
 			
 			// aapt resource value: 0x7F0E0110
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624208;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624208;
 			
 			// aapt resource value: 0x7F0E0111
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624209;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624209;
 			
 			// aapt resource value: 0x7F0E0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624210;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624210;
 			
 			// aapt resource value: 0x7F0E0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624211;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624211;
 			
 			// aapt resource value: 0x7F0E0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624212;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624212;
 			
 			// aapt resource value: 0x7F0E0115
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131624213;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624213;
 			
 			// aapt resource value: 0x7F0E0116
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624214;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131624214;
 			
 			// aapt resource value: 0x7F0E0117
-			public const int TextAppearance_Compat_Notification = 2131624215;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624215;
 			
 			// aapt resource value: 0x7F0E0118
-			public const int TextAppearance_Compat_Notification_Info = 2131624216;
+			public const int TextAppearance_Compat_Notification = 2131624216;
 			
 			// aapt resource value: 0x7F0E0119
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131624217;
+			public const int TextAppearance_Compat_Notification_Info = 2131624217;
 			
 			// aapt resource value: 0x7F0E011A
-			public const int TextAppearance_Compat_Notification_Line2 = 2131624218;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131624218;
 			
 			// aapt resource value: 0x7F0E011B
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624219;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131624219;
 			
 			// aapt resource value: 0x7F0E011C
-			public const int TextAppearance_Compat_Notification_Media = 2131624220;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624220;
 			
 			// aapt resource value: 0x7F0E011D
-			public const int TextAppearance_Compat_Notification_Time = 2131624221;
+			public const int TextAppearance_Compat_Notification_Media = 2131624221;
 			
 			// aapt resource value: 0x7F0E011E
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131624222;
+			public const int TextAppearance_Compat_Notification_Time = 2131624222;
 			
 			// aapt resource value: 0x7F0E011F
-			public const int TextAppearance_Compat_Notification_Title = 2131624223;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131624223;
 			
 			// aapt resource value: 0x7F0E0120
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131624224;
+			public const int TextAppearance_Compat_Notification_Title = 2131624224;
 			
 			// aapt resource value: 0x7F0E0121
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624225;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131624225;
 			
 			// aapt resource value: 0x7F0E0122
-			public const int TextAppearance_Design_Counter = 2131624226;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624226;
 			
 			// aapt resource value: 0x7F0E0123
-			public const int TextAppearance_Design_Counter_Overflow = 2131624227;
+			public const int TextAppearance_Design_Counter = 2131624227;
 			
 			// aapt resource value: 0x7F0E0124
-			public const int TextAppearance_Design_Error = 2131624228;
+			public const int TextAppearance_Design_Counter_Overflow = 2131624228;
 			
 			// aapt resource value: 0x7F0E0125
-			public const int TextAppearance_Design_HelperText = 2131624229;
+			public const int TextAppearance_Design_Error = 2131624229;
 			
 			// aapt resource value: 0x7F0E0126
-			public const int TextAppearance_Design_Hint = 2131624230;
+			public const int TextAppearance_Design_HelperText = 2131624230;
 			
 			// aapt resource value: 0x7F0E0127
-			public const int TextAppearance_Design_Snackbar_Message = 2131624231;
+			public const int TextAppearance_Design_Hint = 2131624231;
 			
 			// aapt resource value: 0x7F0E0128
-			public const int TextAppearance_Design_Tab = 2131624232;
+			public const int TextAppearance_Design_Snackbar_Message = 2131624232;
 			
 			// aapt resource value: 0x7F0E0129
-			public const int TextAppearance_MaterialComponents_Body1 = 2131624233;
+			public const int TextAppearance_Design_Tab = 2131624233;
 			
 			// aapt resource value: 0x7F0E012A
-			public const int TextAppearance_MaterialComponents_Body2 = 2131624234;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131624234;
 			
 			// aapt resource value: 0x7F0E012B
-			public const int TextAppearance_MaterialComponents_Button = 2131624235;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131624235;
 			
 			// aapt resource value: 0x7F0E012C
-			public const int TextAppearance_MaterialComponents_Caption = 2131624236;
+			public const int TextAppearance_MaterialComponents_Button = 2131624236;
 			
 			// aapt resource value: 0x7F0E012D
-			public const int TextAppearance_MaterialComponents_Chip = 2131624237;
+			public const int TextAppearance_MaterialComponents_Caption = 2131624237;
 			
 			// aapt resource value: 0x7F0E012E
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131624238;
+			public const int TextAppearance_MaterialComponents_Chip = 2131624238;
 			
 			// aapt resource value: 0x7F0E012F
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131624239;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131624239;
 			
 			// aapt resource value: 0x7F0E0130
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131624240;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131624240;
 			
 			// aapt resource value: 0x7F0E0131
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131624241;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131624241;
 			
 			// aapt resource value: 0x7F0E0132
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131624242;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131624242;
 			
 			// aapt resource value: 0x7F0E0133
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131624243;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131624243;
 			
 			// aapt resource value: 0x7F0E0134
-			public const int TextAppearance_MaterialComponents_Overline = 2131624244;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131624244;
 			
 			// aapt resource value: 0x7F0E0135
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624245;
+			public const int TextAppearance_MaterialComponents_Overline = 2131624245;
 			
 			// aapt resource value: 0x7F0E0136
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624246;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624246;
 			
 			// aapt resource value: 0x7F0E0137
-			public const int TextAppearance_MaterialComponents_Tab = 2131624247;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624247;
 			
 			// aapt resource value: 0x7F0E0138
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624248;
+			public const int TextAppearance_MaterialComponents_Tab = 2131624248;
 			
 			// aapt resource value: 0x7F0E0139
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624249;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624249;
 			
 			// aapt resource value: 0x7F0E013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624250;
-			
-			// aapt resource value: 0x7F0E016B
-			public const int ThemeOverlay_AppCompat = 2131624299;
-			
-			// aapt resource value: 0x7F0E016C
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131624300;
-			
-			// aapt resource value: 0x7F0E016D
-			public const int ThemeOverlay_AppCompat_Dark = 2131624301;
-			
-			// aapt resource value: 0x7F0E016E
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624302;
-			
-			// aapt resource value: 0x7F0E016F
-			public const int ThemeOverlay_AppCompat_Dialog = 2131624303;
-			
-			// aapt resource value: 0x7F0E0170
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624304;
-			
-			// aapt resource value: 0x7F0E0171
-			public const int ThemeOverlay_AppCompat_Light = 2131624305;
-			
-			// aapt resource value: 0x7F0E0172
-			public const int ThemeOverlay_MaterialComponents = 2131624306;
-			
-			// aapt resource value: 0x7F0E0173
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624307;
-			
-			// aapt resource value: 0x7F0E0174
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131624308;
-			
-			// aapt resource value: 0x7F0E0175
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624309;
-			
-			// aapt resource value: 0x7F0E0176
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624310;
-			
-			// aapt resource value: 0x7F0E0177
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624311;
-			
-			// aapt resource value: 0x7F0E0178
-			public const int ThemeOverlay_MaterialComponents_Light = 2131624312;
-			
-			// aapt resource value: 0x7F0E0179
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624313;
-			
-			// aapt resource value: 0x7F0E017A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624314;
-			
-			// aapt resource value: 0x7F0E017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624315;
-			
-			// aapt resource value: 0x7F0E017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624316;
-			
-			// aapt resource value: 0x7F0E017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624317;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624250;
 			
 			// aapt resource value: 0x7F0E013B
-			public const int Theme_AppCompat = 2131624251;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624251;
 			
-			// aapt resource value: 0x7F0E013C
-			public const int Theme_AppCompat_CompactMenu = 2131624252;
+			// aapt resource value: 0x7F0E016C
+			public const int ThemeOverlay_AppCompat = 2131624300;
 			
-			// aapt resource value: 0x7F0E013D
-			public const int Theme_AppCompat_DayNight = 2131624253;
+			// aapt resource value: 0x7F0E016D
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131624301;
 			
-			// aapt resource value: 0x7F0E013E
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624254;
+			// aapt resource value: 0x7F0E016E
+			public const int ThemeOverlay_AppCompat_Dark = 2131624302;
 			
-			// aapt resource value: 0x7F0E013F
-			public const int Theme_AppCompat_DayNight_Dialog = 2131624255;
+			// aapt resource value: 0x7F0E016F
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624303;
 			
-			// aapt resource value: 0x7F0E0142
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624258;
+			// aapt resource value: 0x7F0E0170
+			public const int ThemeOverlay_AppCompat_Dialog = 2131624304;
 			
-			// aapt resource value: 0x7F0E0140
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624256;
+			// aapt resource value: 0x7F0E0171
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624305;
 			
-			// aapt resource value: 0x7F0E0141
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624257;
+			// aapt resource value: 0x7F0E0172
+			public const int ThemeOverlay_AppCompat_Light = 2131624306;
 			
-			// aapt resource value: 0x7F0E0143
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624259;
+			// aapt resource value: 0x7F0E0173
+			public const int ThemeOverlay_MaterialComponents = 2131624307;
 			
-			// aapt resource value: 0x7F0E0144
-			public const int Theme_AppCompat_Dialog = 2131624260;
+			// aapt resource value: 0x7F0E0174
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624308;
 			
-			// aapt resource value: 0x7F0E0147
-			public const int Theme_AppCompat_DialogWhenLarge = 2131624263;
+			// aapt resource value: 0x7F0E0175
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131624309;
 			
-			// aapt resource value: 0x7F0E0145
-			public const int Theme_AppCompat_Dialog_Alert = 2131624261;
+			// aapt resource value: 0x7F0E0176
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624310;
 			
-			// aapt resource value: 0x7F0E0146
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131624262;
+			// aapt resource value: 0x7F0E0177
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624311;
 			
-			// aapt resource value: 0x7F0E0148
-			public const int Theme_AppCompat_Light = 2131624264;
+			// aapt resource value: 0x7F0E0178
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624312;
 			
-			// aapt resource value: 0x7F0E0149
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131624265;
+			// aapt resource value: 0x7F0E0179
+			public const int ThemeOverlay_MaterialComponents_Light = 2131624313;
 			
-			// aapt resource value: 0x7F0E014A
-			public const int Theme_AppCompat_Light_Dialog = 2131624266;
+			// aapt resource value: 0x7F0E017A
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624314;
 			
-			// aapt resource value: 0x7F0E014D
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624269;
+			// aapt resource value: 0x7F0E017B
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624315;
 			
-			// aapt resource value: 0x7F0E014B
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624267;
+			// aapt resource value: 0x7F0E017C
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624316;
 			
-			// aapt resource value: 0x7F0E014C
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624268;
-			
-			// aapt resource value: 0x7F0E014E
-			public const int Theme_AppCompat_Light_NoActionBar = 2131624270;
-			
-			// aapt resource value: 0x7F0E014F
-			public const int Theme_AppCompat_NoActionBar = 2131624271;
-			
-			// aapt resource value: 0x7F0E0150
-			public const int Theme_Design = 2131624272;
-			
-			// aapt resource value: 0x7F0E0151
-			public const int Theme_Design_BottomSheetDialog = 2131624273;
-			
-			// aapt resource value: 0x7F0E0152
-			public const int Theme_Design_Light = 2131624274;
-			
-			// aapt resource value: 0x7F0E0153
-			public const int Theme_Design_Light_BottomSheetDialog = 2131624275;
-			
-			// aapt resource value: 0x7F0E0154
-			public const int Theme_Design_Light_NoActionBar = 2131624276;
-			
-			// aapt resource value: 0x7F0E0155
-			public const int Theme_Design_NoActionBar = 2131624277;
-			
-			// aapt resource value: 0x7F0E0156
-			public const int Theme_MaterialComponents = 2131624278;
-			
-			// aapt resource value: 0x7F0E0157
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624279;
-			
-			// aapt resource value: 0x7F0E0158
-			public const int Theme_MaterialComponents_Bridge = 2131624280;
-			
-			// aapt resource value: 0x7F0E0159
-			public const int Theme_MaterialComponents_CompactMenu = 2131624281;
-			
-			// aapt resource value: 0x7F0E015A
-			public const int Theme_MaterialComponents_Dialog = 2131624282;
-			
-			// aapt resource value: 0x7F0E015D
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624285;
-			
-			// aapt resource value: 0x7F0E015B
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131624283;
-			
-			// aapt resource value: 0x7F0E015C
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624284;
-			
-			// aapt resource value: 0x7F0E015E
-			public const int Theme_MaterialComponents_Light = 2131624286;
-			
-			// aapt resource value: 0x7F0E015F
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624287;
-			
-			// aapt resource value: 0x7F0E0160
-			public const int Theme_MaterialComponents_Light_Bridge = 2131624288;
-			
-			// aapt resource value: 0x7F0E0161
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624289;
-			
-			// aapt resource value: 0x7F0E0162
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624290;
-			
-			// aapt resource value: 0x7F0E0163
-			public const int Theme_MaterialComponents_Light_Dialog = 2131624291;
-			
-			// aapt resource value: 0x7F0E0166
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624294;
-			
-			// aapt resource value: 0x7F0E0164
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624292;
-			
-			// aapt resource value: 0x7F0E0165
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624293;
-			
-			// aapt resource value: 0x7F0E0167
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624295;
-			
-			// aapt resource value: 0x7F0E0168
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624296;
-			
-			// aapt resource value: 0x7F0E0169
-			public const int Theme_MaterialComponents_NoActionBar = 2131624297;
-			
-			// aapt resource value: 0x7F0E016A
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624298;
+			// aapt resource value: 0x7F0E017D
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624317;
 			
 			// aapt resource value: 0x7F0E017E
-			public const int Widget_AppCompat_ActionBar = 2131624318;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624318;
+			
+			// aapt resource value: 0x7F0E013C
+			public const int Theme_AppCompat = 2131624252;
+			
+			// aapt resource value: 0x7F0E013D
+			public const int Theme_AppCompat_CompactMenu = 2131624253;
+			
+			// aapt resource value: 0x7F0E013E
+			public const int Theme_AppCompat_DayNight = 2131624254;
+			
+			// aapt resource value: 0x7F0E013F
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624255;
+			
+			// aapt resource value: 0x7F0E0140
+			public const int Theme_AppCompat_DayNight_Dialog = 2131624256;
+			
+			// aapt resource value: 0x7F0E0143
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624259;
+			
+			// aapt resource value: 0x7F0E0141
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624257;
+			
+			// aapt resource value: 0x7F0E0142
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624258;
+			
+			// aapt resource value: 0x7F0E0144
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624260;
+			
+			// aapt resource value: 0x7F0E0145
+			public const int Theme_AppCompat_Dialog = 2131624261;
+			
+			// aapt resource value: 0x7F0E0148
+			public const int Theme_AppCompat_DialogWhenLarge = 2131624264;
+			
+			// aapt resource value: 0x7F0E0146
+			public const int Theme_AppCompat_Dialog_Alert = 2131624262;
+			
+			// aapt resource value: 0x7F0E0147
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131624263;
+			
+			// aapt resource value: 0x7F0E0149
+			public const int Theme_AppCompat_Light = 2131624265;
+			
+			// aapt resource value: 0x7F0E014A
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131624266;
+			
+			// aapt resource value: 0x7F0E014B
+			public const int Theme_AppCompat_Light_Dialog = 2131624267;
+			
+			// aapt resource value: 0x7F0E014E
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624270;
+			
+			// aapt resource value: 0x7F0E014C
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624268;
+			
+			// aapt resource value: 0x7F0E014D
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624269;
+			
+			// aapt resource value: 0x7F0E014F
+			public const int Theme_AppCompat_Light_NoActionBar = 2131624271;
+			
+			// aapt resource value: 0x7F0E0150
+			public const int Theme_AppCompat_NoActionBar = 2131624272;
+			
+			// aapt resource value: 0x7F0E0151
+			public const int Theme_Design = 2131624273;
+			
+			// aapt resource value: 0x7F0E0152
+			public const int Theme_Design_BottomSheetDialog = 2131624274;
+			
+			// aapt resource value: 0x7F0E0153
+			public const int Theme_Design_Light = 2131624275;
+			
+			// aapt resource value: 0x7F0E0154
+			public const int Theme_Design_Light_BottomSheetDialog = 2131624276;
+			
+			// aapt resource value: 0x7F0E0155
+			public const int Theme_Design_Light_NoActionBar = 2131624277;
+			
+			// aapt resource value: 0x7F0E0156
+			public const int Theme_Design_NoActionBar = 2131624278;
+			
+			// aapt resource value: 0x7F0E0157
+			public const int Theme_MaterialComponents = 2131624279;
+			
+			// aapt resource value: 0x7F0E0158
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624280;
+			
+			// aapt resource value: 0x7F0E0159
+			public const int Theme_MaterialComponents_Bridge = 2131624281;
+			
+			// aapt resource value: 0x7F0E015A
+			public const int Theme_MaterialComponents_CompactMenu = 2131624282;
+			
+			// aapt resource value: 0x7F0E015B
+			public const int Theme_MaterialComponents_Dialog = 2131624283;
+			
+			// aapt resource value: 0x7F0E015E
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624286;
+			
+			// aapt resource value: 0x7F0E015C
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131624284;
+			
+			// aapt resource value: 0x7F0E015D
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624285;
+			
+			// aapt resource value: 0x7F0E015F
+			public const int Theme_MaterialComponents_Light = 2131624287;
+			
+			// aapt resource value: 0x7F0E0160
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624288;
+			
+			// aapt resource value: 0x7F0E0161
+			public const int Theme_MaterialComponents_Light_Bridge = 2131624289;
+			
+			// aapt resource value: 0x7F0E0162
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624290;
+			
+			// aapt resource value: 0x7F0E0163
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624291;
+			
+			// aapt resource value: 0x7F0E0164
+			public const int Theme_MaterialComponents_Light_Dialog = 2131624292;
+			
+			// aapt resource value: 0x7F0E0167
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624295;
+			
+			// aapt resource value: 0x7F0E0165
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624293;
+			
+			// aapt resource value: 0x7F0E0166
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624294;
+			
+			// aapt resource value: 0x7F0E0168
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624296;
+			
+			// aapt resource value: 0x7F0E0169
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624297;
+			
+			// aapt resource value: 0x7F0E016A
+			public const int Theme_MaterialComponents_NoActionBar = 2131624298;
+			
+			// aapt resource value: 0x7F0E016B
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624299;
 			
 			// aapt resource value: 0x7F0E017F
-			public const int Widget_AppCompat_ActionBar_Solid = 2131624319;
+			public const int Widget_AppCompat_ActionBar = 2131624319;
 			
 			// aapt resource value: 0x7F0E0180
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131624320;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131624320;
 			
 			// aapt resource value: 0x7F0E0181
-			public const int Widget_AppCompat_ActionBar_TabText = 2131624321;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131624321;
 			
 			// aapt resource value: 0x7F0E0182
-			public const int Widget_AppCompat_ActionBar_TabView = 2131624322;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131624322;
 			
 			// aapt resource value: 0x7F0E0183
-			public const int Widget_AppCompat_ActionButton = 2131624323;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131624323;
 			
 			// aapt resource value: 0x7F0E0184
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624324;
+			public const int Widget_AppCompat_ActionButton = 2131624324;
 			
 			// aapt resource value: 0x7F0E0185
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131624325;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624325;
 			
 			// aapt resource value: 0x7F0E0186
-			public const int Widget_AppCompat_ActionMode = 2131624326;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131624326;
 			
 			// aapt resource value: 0x7F0E0187
-			public const int Widget_AppCompat_ActivityChooserView = 2131624327;
+			public const int Widget_AppCompat_ActionMode = 2131624327;
 			
 			// aapt resource value: 0x7F0E0188
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131624328;
+			public const int Widget_AppCompat_ActivityChooserView = 2131624328;
 			
 			// aapt resource value: 0x7F0E0189
-			public const int Widget_AppCompat_Button = 2131624329;
-			
-			// aapt resource value: 0x7F0E018F
-			public const int Widget_AppCompat_ButtonBar = 2131624335;
-			
-			// aapt resource value: 0x7F0E0190
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624336;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131624329;
 			
 			// aapt resource value: 0x7F0E018A
-			public const int Widget_AppCompat_Button_Borderless = 2131624330;
+			public const int Widget_AppCompat_Button = 2131624330;
 			
-			// aapt resource value: 0x7F0E018B
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624331;
-			
-			// aapt resource value: 0x7F0E018C
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624332;
-			
-			// aapt resource value: 0x7F0E018D
-			public const int Widget_AppCompat_Button_Colored = 2131624333;
-			
-			// aapt resource value: 0x7F0E018E
-			public const int Widget_AppCompat_Button_Small = 2131624334;
+			// aapt resource value: 0x7F0E0190
+			public const int Widget_AppCompat_ButtonBar = 2131624336;
 			
 			// aapt resource value: 0x7F0E0191
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624337;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624337;
+			
+			// aapt resource value: 0x7F0E018B
+			public const int Widget_AppCompat_Button_Borderless = 2131624331;
+			
+			// aapt resource value: 0x7F0E018C
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624332;
+			
+			// aapt resource value: 0x7F0E018D
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624333;
+			
+			// aapt resource value: 0x7F0E018E
+			public const int Widget_AppCompat_Button_Colored = 2131624334;
+			
+			// aapt resource value: 0x7F0E018F
+			public const int Widget_AppCompat_Button_Small = 2131624335;
 			
 			// aapt resource value: 0x7F0E0192
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624338;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624338;
 			
 			// aapt resource value: 0x7F0E0193
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131624339;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624339;
 			
 			// aapt resource value: 0x7F0E0194
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131624340;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131624340;
 			
 			// aapt resource value: 0x7F0E0195
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624341;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131624341;
 			
 			// aapt resource value: 0x7F0E0196
-			public const int Widget_AppCompat_EditText = 2131624342;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624342;
 			
 			// aapt resource value: 0x7F0E0197
-			public const int Widget_AppCompat_ImageButton = 2131624343;
+			public const int Widget_AppCompat_EditText = 2131624343;
 			
 			// aapt resource value: 0x7F0E0198
-			public const int Widget_AppCompat_Light_ActionBar = 2131624344;
+			public const int Widget_AppCompat_ImageButton = 2131624344;
 			
 			// aapt resource value: 0x7F0E0199
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624345;
+			public const int Widget_AppCompat_Light_ActionBar = 2131624345;
 			
 			// aapt resource value: 0x7F0E019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624346;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624346;
 			
 			// aapt resource value: 0x7F0E019B
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624347;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624347;
 			
 			// aapt resource value: 0x7F0E019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624348;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624348;
 			
 			// aapt resource value: 0x7F0E019D
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624349;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624349;
 			
 			// aapt resource value: 0x7F0E019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624350;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624350;
 			
 			// aapt resource value: 0x7F0E019F
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624351;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624351;
 			
 			// aapt resource value: 0x7F0E01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624352;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624352;
 			
 			// aapt resource value: 0x7F0E01A1
-			public const int Widget_AppCompat_Light_ActionButton = 2131624353;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624353;
 			
 			// aapt resource value: 0x7F0E01A2
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624354;
+			public const int Widget_AppCompat_Light_ActionButton = 2131624354;
 			
 			// aapt resource value: 0x7F0E01A3
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624355;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624355;
 			
 			// aapt resource value: 0x7F0E01A4
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624356;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624356;
 			
 			// aapt resource value: 0x7F0E01A5
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624357;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624357;
 			
 			// aapt resource value: 0x7F0E01A6
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624358;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624358;
 			
 			// aapt resource value: 0x7F0E01A7
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624359;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624359;
 			
 			// aapt resource value: 0x7F0E01A8
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624360;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624360;
 			
 			// aapt resource value: 0x7F0E01A9
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624361;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624361;
 			
 			// aapt resource value: 0x7F0E01AA
-			public const int Widget_AppCompat_Light_PopupMenu = 2131624362;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624362;
 			
 			// aapt resource value: 0x7F0E01AB
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624363;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131624363;
 			
 			// aapt resource value: 0x7F0E01AC
-			public const int Widget_AppCompat_Light_SearchView = 2131624364;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624364;
 			
 			// aapt resource value: 0x7F0E01AD
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624365;
+			public const int Widget_AppCompat_Light_SearchView = 2131624365;
 			
 			// aapt resource value: 0x7F0E01AE
-			public const int Widget_AppCompat_ListMenuView = 2131624366;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624366;
 			
 			// aapt resource value: 0x7F0E01AF
-			public const int Widget_AppCompat_ListPopupWindow = 2131624367;
+			public const int Widget_AppCompat_ListMenuView = 2131624367;
 			
 			// aapt resource value: 0x7F0E01B0
-			public const int Widget_AppCompat_ListView = 2131624368;
+			public const int Widget_AppCompat_ListPopupWindow = 2131624368;
 			
 			// aapt resource value: 0x7F0E01B1
-			public const int Widget_AppCompat_ListView_DropDown = 2131624369;
+			public const int Widget_AppCompat_ListView = 2131624369;
 			
 			// aapt resource value: 0x7F0E01B2
-			public const int Widget_AppCompat_ListView_Menu = 2131624370;
+			public const int Widget_AppCompat_ListView_DropDown = 2131624370;
 			
 			// aapt resource value: 0x7F0E01B3
-			public const int Widget_AppCompat_PopupMenu = 2131624371;
+			public const int Widget_AppCompat_ListView_Menu = 2131624371;
 			
 			// aapt resource value: 0x7F0E01B4
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624372;
+			public const int Widget_AppCompat_PopupMenu = 2131624372;
 			
 			// aapt resource value: 0x7F0E01B5
-			public const int Widget_AppCompat_PopupWindow = 2131624373;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624373;
 			
 			// aapt resource value: 0x7F0E01B6
-			public const int Widget_AppCompat_ProgressBar = 2131624374;
+			public const int Widget_AppCompat_PopupWindow = 2131624374;
 			
 			// aapt resource value: 0x7F0E01B7
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624375;
+			public const int Widget_AppCompat_ProgressBar = 2131624375;
 			
 			// aapt resource value: 0x7F0E01B8
-			public const int Widget_AppCompat_RatingBar = 2131624376;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624376;
 			
 			// aapt resource value: 0x7F0E01B9
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131624377;
+			public const int Widget_AppCompat_RatingBar = 2131624377;
 			
 			// aapt resource value: 0x7F0E01BA
-			public const int Widget_AppCompat_RatingBar_Small = 2131624378;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131624378;
 			
 			// aapt resource value: 0x7F0E01BB
-			public const int Widget_AppCompat_SearchView = 2131624379;
+			public const int Widget_AppCompat_RatingBar_Small = 2131624379;
 			
 			// aapt resource value: 0x7F0E01BC
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131624380;
+			public const int Widget_AppCompat_SearchView = 2131624380;
 			
 			// aapt resource value: 0x7F0E01BD
-			public const int Widget_AppCompat_SeekBar = 2131624381;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131624381;
 			
 			// aapt resource value: 0x7F0E01BE
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131624382;
+			public const int Widget_AppCompat_SeekBar = 2131624382;
 			
 			// aapt resource value: 0x7F0E01BF
-			public const int Widget_AppCompat_Spinner = 2131624383;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131624383;
 			
 			// aapt resource value: 0x7F0E01C0
-			public const int Widget_AppCompat_Spinner_DropDown = 2131624384;
+			public const int Widget_AppCompat_Spinner = 2131624384;
 			
 			// aapt resource value: 0x7F0E01C1
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624385;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131624385;
 			
 			// aapt resource value: 0x7F0E01C2
-			public const int Widget_AppCompat_Spinner_Underlined = 2131624386;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624386;
 			
 			// aapt resource value: 0x7F0E01C3
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624387;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131624387;
 			
 			// aapt resource value: 0x7F0E01C4
-			public const int Widget_AppCompat_Toolbar = 2131624388;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624388;
 			
 			// aapt resource value: 0x7F0E01C5
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624389;
+			public const int Widget_AppCompat_Toolbar = 2131624389;
 			
 			// aapt resource value: 0x7F0E01C6
-			public const int Widget_Compat_NotificationActionContainer = 2131624390;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624390;
 			
 			// aapt resource value: 0x7F0E01C7
-			public const int Widget_Compat_NotificationActionText = 2131624391;
+			public const int Widget_Compat_NotificationActionContainer = 2131624391;
 			
 			// aapt resource value: 0x7F0E01C8
-			public const int Widget_Design_AppBarLayout = 2131624392;
+			public const int Widget_Compat_NotificationActionText = 2131624392;
 			
 			// aapt resource value: 0x7F0E01C9
-			public const int Widget_Design_BottomNavigationView = 2131624393;
+			public const int Widget_Design_AppBarLayout = 2131624393;
 			
 			// aapt resource value: 0x7F0E01CA
-			public const int Widget_Design_BottomSheet_Modal = 2131624394;
+			public const int Widget_Design_BottomNavigationView = 2131624394;
 			
 			// aapt resource value: 0x7F0E01CB
-			public const int Widget_Design_CollapsingToolbar = 2131624395;
+			public const int Widget_Design_BottomSheet_Modal = 2131624395;
 			
 			// aapt resource value: 0x7F0E01CC
-			public const int Widget_Design_FloatingActionButton = 2131624396;
+			public const int Widget_Design_CollapsingToolbar = 2131624396;
 			
 			// aapt resource value: 0x7F0E01CD
-			public const int Widget_Design_NavigationView = 2131624397;
+			public const int Widget_Design_FloatingActionButton = 2131624397;
 			
 			// aapt resource value: 0x7F0E01CE
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624398;
+			public const int Widget_Design_NavigationView = 2131624398;
 			
 			// aapt resource value: 0x7F0E01CF
-			public const int Widget_Design_Snackbar = 2131624399;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624399;
 			
 			// aapt resource value: 0x7F0E01D0
-			public const int Widget_Design_TabLayout = 2131624400;
+			public const int Widget_Design_Snackbar = 2131624400;
 			
 			// aapt resource value: 0x7F0E01D1
-			public const int Widget_Design_TextInputLayout = 2131624401;
+			public const int Widget_Design_TabLayout = 2131624401;
 			
 			// aapt resource value: 0x7F0E01D2
-			public const int Widget_MaterialComponents_BottomAppBar = 2131624402;
+			public const int Widget_Design_TextInputLayout = 2131624402;
 			
 			// aapt resource value: 0x7F0E01D3
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624403;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131624403;
 			
 			// aapt resource value: 0x7F0E01D4
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131624404;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624404;
 			
 			// aapt resource value: 0x7F0E01D5
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624405;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131624405;
 			
 			// aapt resource value: 0x7F0E01D6
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624406;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624406;
 			
 			// aapt resource value: 0x7F0E01D7
-			public const int Widget_MaterialComponents_Button = 2131624407;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624407;
 			
 			// aapt resource value: 0x7F0E01D8
-			public const int Widget_MaterialComponents_Button_Icon = 2131624408;
+			public const int Widget_MaterialComponents_Button = 2131624408;
 			
 			// aapt resource value: 0x7F0E01D9
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624409;
+			public const int Widget_MaterialComponents_Button_Icon = 2131624409;
 			
 			// aapt resource value: 0x7F0E01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624410;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624410;
 			
 			// aapt resource value: 0x7F0E01DB
-			public const int Widget_MaterialComponents_Button_TextButton = 2131624411;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624411;
 			
 			// aapt resource value: 0x7F0E01DC
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624412;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131624412;
 			
 			// aapt resource value: 0x7F0E01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624413;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624413;
 			
 			// aapt resource value: 0x7F0E01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624414;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624414;
 			
 			// aapt resource value: 0x7F0E01DF
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624415;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624415;
 			
 			// aapt resource value: 0x7F0E01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624416;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624416;
 			
 			// aapt resource value: 0x7F0E01E1
-			public const int Widget_MaterialComponents_CardView = 2131624417;
-			
-			// aapt resource value: 0x7F0E01E6
-			public const int Widget_MaterialComponents_ChipGroup = 2131624422;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624417;
 			
 			// aapt resource value: 0x7F0E01E2
-			public const int Widget_MaterialComponents_Chip_Action = 2131624418;
-			
-			// aapt resource value: 0x7F0E01E3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131624419;
-			
-			// aapt resource value: 0x7F0E01E4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131624420;
-			
-			// aapt resource value: 0x7F0E01E5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131624421;
+			public const int Widget_MaterialComponents_CardView = 2131624418;
 			
 			// aapt resource value: 0x7F0E01E7
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131624423;
+			public const int Widget_MaterialComponents_ChipGroup = 2131624423;
+			
+			// aapt resource value: 0x7F0E01E3
+			public const int Widget_MaterialComponents_Chip_Action = 2131624419;
+			
+			// aapt resource value: 0x7F0E01E4
+			public const int Widget_MaterialComponents_Chip_Choice = 2131624420;
+			
+			// aapt resource value: 0x7F0E01E5
+			public const int Widget_MaterialComponents_Chip_Entry = 2131624421;
+			
+			// aapt resource value: 0x7F0E01E6
+			public const int Widget_MaterialComponents_Chip_Filter = 2131624422;
 			
 			// aapt resource value: 0x7F0E01E8
-			public const int Widget_MaterialComponents_NavigationView = 2131624424;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131624424;
 			
 			// aapt resource value: 0x7F0E01E9
-			public const int Widget_MaterialComponents_Snackbar = 2131624425;
+			public const int Widget_MaterialComponents_NavigationView = 2131624425;
 			
 			// aapt resource value: 0x7F0E01EA
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624426;
+			public const int Widget_MaterialComponents_Snackbar = 2131624426;
 			
 			// aapt resource value: 0x7F0E01EB
-			public const int Widget_MaterialComponents_TabLayout = 2131624427;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624427;
 			
 			// aapt resource value: 0x7F0E01EC
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624428;
+			public const int Widget_MaterialComponents_TabLayout = 2131624428;
 			
 			// aapt resource value: 0x7F0E01ED
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624429;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624429;
 			
 			// aapt resource value: 0x7F0E01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624430;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624430;
 			
 			// aapt resource value: 0x7F0E01EF
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624431;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624431;
 			
 			// aapt resource value: 0x7F0E01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624432;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624432;
 			
 			// aapt resource value: 0x7F0E01F1
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624433;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624433;
 			
 			// aapt resource value: 0x7F0E01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624434;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624434;
 			
 			// aapt resource value: 0x7F0E01F3
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624435;
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624435;
 			
 			// aapt resource value: 0x7F0E01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624436;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624436;
 			
 			// aapt resource value: 0x7F0E01F5
-			public const int Widget_MaterialComponents_Toolbar = 2131624437;
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624437;
 			
 			// aapt resource value: 0x7F0E01F6
-			public const int Widget_Support_CoordinatorLayout = 2131624438;
+			public const int Widget_MaterialComponents_Toolbar = 2131624438;
+			
+			// aapt resource value: 0x7F0E01F7
+			public const int Widget_Support_CoordinatorLayout = 2131624439;
 			
 			static Style()
 			{
