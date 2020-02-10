@@ -10,7 +10,7 @@ namespace BurgerMonkeys.UI.Sample.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
-
+            //BurgerMonkeys.UI.iOS.BMImageRenderer.Init();
             return base.FinishedLaunching(app, options);
         }
     }
