@@ -114,6 +114,10 @@
     <ImageAsset Include="Assets.xcassets\xamarin.imageset\xamarin_30.png" />
     <ImageAsset Include="Assets.xcassets\xamarin.imageset\xamarin_60.png" />
     <ImageAsset Include="Assets.xcassets\xamarin.imageset\xamarin_90.png" />
+    <ImageAsset Include="Assets.xcassets\alpha_x_box.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\alpha_x_box.imageset\alpha-x-box_30.png" />
+    <ImageAsset Include="Assets.xcassets\alpha_x_box.imageset\alpha-x-box_60.png" />
+    <ImageAsset Include="Assets.xcassets\alpha_x_box.imageset\alpha-x-box_90.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -139,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets.xcassets\xamarin.imageset\" />
+    <Folder Include="Assets.xcassets\alpha_x_box.imageset\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
