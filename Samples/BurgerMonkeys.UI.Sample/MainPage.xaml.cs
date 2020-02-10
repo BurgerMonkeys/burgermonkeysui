@@ -10,7 +10,7 @@ namespace BurgerMonkeys.UI.Sample
         {
             InitializeComponent();
             swtIsCircle.IsToggled = false;
-            sizeBorderSlider.Value = 5;
+            sizeBorderSlider.Value = 0;
         }
 
         void UpdateTint()
@@ -48,8 +48,6 @@ namespace BurgerMonkeys.UI.Sample
         void IsCircleToggled(object sender, ToggledEventArgs e)
         {
             bmImage.IsCircle = swtIsCircle.IsToggled;
-            //frmBorderColor.IsVisible = swtIsCircle.IsToggled;
-            //lblBorder.IsVisible = swtIsCircle.IsToggled;
         }
     }
 }

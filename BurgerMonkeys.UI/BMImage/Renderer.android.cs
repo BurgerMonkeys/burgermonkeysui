@@ -39,54 +39,63 @@ namespace BurgerMonkeys.UI.Droid
         protected override bool DrawChild(Canvas canvas, Android.Views.View child, long drawingTime)
         {
             SetColorTint();
+            var isCircle = ((BMImage)Element).IsCircle;
+            var borderSize = ((BMImage)Element).BorderSize;
+            var borderColor = ((BMImage)Element).BorderColor.ToAndroid();
 
-            if (((BMImage)Element).IsCircle)
+            try
             {
-                try
+                var strokeWidth = 0f;
+                if (borderSize > 0)
                 {
-                    var borderSize = ((BMImage)Element).BorderSize;
-                    var strokeWidth = 0f;
-                    if (borderSize > 0)
-                    {
-                        var logicalDensity = Android.App.Application.Context.Resources.DisplayMetrics.Density;
-                        strokeWidth = (float)Math.Ceiling(borderSize * logicalDensity + .5f);
-                    }
+                    var logicalDensity = Android.App.Application.Context.Resources.DisplayMetrics.Density;
+                    strokeWidth = (float)Math.Ceiling(borderSize * logicalDensity + .5f);
+                }
 
-                    var radius = (float)Math.Min(Width, Height) / 2f;
+                var radius = 0f;
+                var path = new Path();
+                var result = true;
+                if (isCircle)
+                {
+                    radius = Math.Min(Width, Height) / 2f;
                     radius -= strokeWidth / 2f;
-                    var path = new Path();
                     path.AddCircle(Width / 2.0f, Height / 2.0f, radius, Path.Direction.Ccw);
-
                     canvas.Save();
                     canvas.ClipPath(path);
 
-                    var result = base.DrawChild(canvas, child, drawingTime);
+                    result = base.DrawChild(canvas, child, drawingTime);
                     path.Dispose();
                     canvas.Restore();
 
                     path = new Path();
                     path.AddCircle(Width / 2f, Height / 2f, radius, Path.Direction.Ccw);
-
-                    if (strokeWidth > 0.0f)
-                    {
-                        var paint = new Paint
-                        {
-                            AntiAlias = true,
-                            StrokeWidth = strokeWidth
-                        };
-                        paint.SetStyle(Paint.Style.Stroke);
-                        paint.Color = ((BMImage)Element).BorderColor.ToAndroid();
-                        canvas.DrawPath(path, paint);
-                        paint.Dispose();
-                    }
-
-                    path.Dispose();
-                    return result;
                 }
-                catch (Exception ex)
+                else
                 {
-                    System.Diagnostics.Debug.WriteLine("Unable to create circle image: " + ex);
+                    result = base.DrawChild(canvas, child, drawingTime);
+                    path = new Path();
+                    path.AddRect(0f, 0f, Width, Height, Path.Direction.Ccw);
                 }
+
+                if (strokeWidth > 0.0f)
+                {
+                    var paint = new Paint
+                    {
+                        AntiAlias = true,
+                        StrokeWidth = strokeWidth
+                    };
+                    paint.SetStyle(Paint.Style.Stroke);
+                    paint.Color = borderColor;
+                    canvas.DrawPath(path, paint);
+                    paint.Dispose();
+                }
+
+                path.Dispose();
+                return result;
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine("Unable to create circle image: " + ex);
             }
             return base.DrawChild(canvas, child, drawingTime);
         }

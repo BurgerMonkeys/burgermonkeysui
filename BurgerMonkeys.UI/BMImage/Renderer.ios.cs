@@ -99,46 +99,6 @@ namespace BurgerMonkeys.UI.iOS
             {
                 System.Diagnostics.Debug.WriteLine("Unable to create circle image: " + ex);
             }
-
-            //if (isCircle)
-            //{
-            //    try
-            //    {
-            //        Control.Layer.CornerRadius = radius;
-            //        Control.Layer.MasksToBounds = false;
-            //        Control.BackgroundColor = backgroundColor.ToUIColor();
-            //        Control.ClipsToBounds = true;
-
-            //        var tempLayer = Control.Layer.Sublayers?
-            //                               .Where(p => p.Name == borderName)
-            //                               .FirstOrDefault();
-            //        tempLayer?.RemoveFromSuperLayer();
-
-            //        var externalBorder = new CALayer
-            //        {
-            //            Name = borderName,
-            //            CornerRadius = Control.Layer.CornerRadius,
-            //            Frame = new CGRect(-.5, -.5, radius + 1, radius + 1),
-            //            BorderColor = borderColor.ToCGColor(),
-            //            BorderWidth = borderSize
-            //        };
-
-            //        Control.Layer.AddSublayer(externalBorder);
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        System.Diagnostics.Debug.WriteLine("Unable to create circle image: " + ex);
-            //    }
-
-            //}
-            //else
-            //{
-            //    Control.Layer.CornerRadius = 0;
-            //    var tempLayer = Control.Layer.Sublayers?
-            //                               .Where(p => p.Name == borderName)
-            //                               .FirstOrDefault();
-            //    tempLayer?.RemoveFromSuperLayer();
-            //}
         }
     }
 }
