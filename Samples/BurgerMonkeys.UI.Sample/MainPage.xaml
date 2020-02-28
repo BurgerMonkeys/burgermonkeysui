@@ -6,48 +6,148 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:bmui="clr-namespace:BurgerMonkeys.UI.Controls;assembly=BurgerMonkeys.UI"
     mc:Ignorable="d"
+    BackgroundColor="#F2F2F2"
     x:Class="BurgerMonkeys.UI.Sample.MainPage">
 
-    <Grid
-        RowSpacing="20"
-        Padding="20,40,20,20">
+    <ScrollView>
+        <StackLayout
+            Padding="20"
+            Spacing="10">
 
-        <Grid.RowDefinitions>
-            <RowDefinition Height="20"/>
-            <RowDefinition Height="20"/>
-            <RowDefinition Height="20"/>
-            <RowDefinition Height="*"/>
-        </Grid.RowDefinitions>
+            <Frame
+                BackgroundColor="#FCFCFC"
+                CornerRadius="20"
+                HasShadow="False"
+                HorizontalOptions="FillAndExpand">
 
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="40"/>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="40"/>
-        </Grid.ColumnDefinitions>
+                <bmui:BMImage
+                        x:Name="bmImage"
+                        HorizontalOptions="Center"
+                        WidthRequest="100"
+                        HeightRequest="100"
+                        Aspect="AspectFit"
+                        Source="xamarin"
+                        BackgroundColor="White"/>
 
-        <Label Text="R" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0" Grid.Column="0" TextColor="Red" FontAttributes="Bold"/>
-        <Label Text="G" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="1" Grid.Column="0" TextColor="Green" FontAttributes="Bold"/>
-        <Label Text="B" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="2" Grid.Column="0" TextColor="Blue" FontAttributes="Bold"/>
+            </Frame>
 
-        <Slider x:Name="redSlider" Grid.Row="0" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderValueChanged"/>
-        <Slider x:Name="greenSlider" Grid.Row="1" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderValueChanged"/>
-        <Slider x:Name="blueSlider" Grid.Row="2" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderValueChanged"/>
+            <Label
+                Margin="10,0,0,0"
+                Text="TintColor"
+                TextColor="Gray"
+                />
 
-        <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference redSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0" Grid.Column="2" TextColor="Red" FontAttributes="Bold"/>
-        <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference greenSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="1" Grid.Column="2" TextColor="Green" FontAttributes="Bold"/>
-        <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference blueSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="2" Grid.Column="2" TextColor="Blue" FontAttributes="Bold"/>
+            <Frame
+                BackgroundColor="#FCFCFC"
+                CornerRadius="20"
+                HasShadow="False"
+                HorizontalOptions="FillAndExpand">
 
-        <bmui:BMImage
-            x:Name="bmImage"
-            Grid.Row="3"
-            Grid.Column="0"
-            Grid.ColumnSpan="3"
-            HorizontalOptions="Center"
-            WidthRequest="100"
-            HeightRequest="100"
-            Aspect="AspectFit"
-            Source="xamarin"/>
+                <Grid
+                    RowSpacing="20">
 
-    </Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="40"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="R" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0" Grid.Column="0" TextColor="Red" FontAttributes="Bold"/>
+                    <Label Text="G" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="1" Grid.Column="0" TextColor="Green" FontAttributes="Bold"/>
+                    <Label Text="B" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="2" Grid.Column="0" TextColor="Blue" FontAttributes="Bold"/>
+
+                    <Slider x:Name="redSlider" Grid.Row="0" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderValueChanged"/>
+                    <Slider x:Name="greenSlider" Grid.Row="1" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderValueChanged"/>
+                    <Slider x:Name="blueSlider" Grid.Row="2" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderValueChanged"/>
+
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference redSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0" Grid.Column="2" TextColor="Red" FontAttributes="Bold"/>
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference greenSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="1" Grid.Column="2" TextColor="Green" FontAttributes="Bold"/>
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference blueSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="2" Grid.Column="2" TextColor="Blue" FontAttributes="Bold"/>
+
+                </Grid>
+
+            </Frame>
+
+            <Frame
+                BackgroundColor="#FCFCFC"
+                CornerRadius="20"
+                HasShadow="False"
+                HorizontalOptions="FillAndExpand">
+
+                <StackLayout
+                    Orientation="Horizontal">
+
+                    <Switch
+                        x:Name="swtIsCircle"
+                        Toggled="IsCircleToggled"
+                        />
+
+                    <Label
+                        Margin="10,0,0,0"
+                        Text="IsCircle"
+                        TextColor="Gray"
+                        VerticalTextAlignment="Center"
+                        />
+
+                </StackLayout>
+
+            </Frame>
+
+            <Label
+                x:Name="lblBorder"
+                Margin="10,0,0,0"
+                Text="Border"
+                TextColor="Gray"
+                />
+
+            <Frame
+                x:Name="frmBorderColor"
+                BackgroundColor="#FCFCFC"
+                CornerRadius="20"
+                HasShadow="False"
+                HorizontalOptions="FillAndExpand">
+
+                <Grid
+                    RowSpacing="20">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="40"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="R" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0" Grid.Column="0" TextColor="Red" FontAttributes="Bold"/>
+                    <Label Text="G" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="1" Grid.Column="0" TextColor="Green" FontAttributes="Bold"/>
+                    <Label Text="B" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="2" Grid.Column="0" TextColor="Blue" FontAttributes="Bold"/>
+                    <Label Text="Size" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="3" Grid.Column="0" TextColor="Black" FontAttributes="Bold"/>
+
+                    <Slider x:Name="redBorderSlider" Grid.Row="0" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderBorderColorValueChanged"/>
+                    <Slider x:Name="greenBorderSlider" Grid.Row="1" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderBorderColorValueChanged"/>
+                    <Slider x:Name="blueBorderSlider" Grid.Row="2" Grid.Column="1" Minimum="0" Maximum="255" VerticalOptions="Center" ValueChanged="OnSliderBorderColorValueChanged"/>
+                    <Slider x:Name="sizeBorderSlider" Grid.Row="3" Grid.Column="1" Minimum="0" Maximum="10" VerticalOptions="Center" ValueChanged="OnSliderBorderSizeValueChanged"/>
+
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference redBorderSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="0" Grid.Column="2" TextColor="Red" FontAttributes="Bold"/>
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference greenBorderSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="1" Grid.Column="2" TextColor="Green" FontAttributes="Bold"/>
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference blueBorderSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="2" Grid.Column="2" TextColor="Blue" FontAttributes="Bold"/>
+                    <Label Text="{Binding Value, StringFormat='{0:F0}'}" BindingContext="{x:Reference sizeBorderSlider}" VerticalOptions="Center" HorizontalOptions="Center" Grid.Row="3" Grid.Column="2" TextColor="Black" FontAttributes="Bold"/>
+
+                </Grid>
+
+            </Frame>
+        </StackLayout>
+    </ScrollView>
 
 </ContentPage>
